@@ -1,0 +1,42 @@
+baseURL: /
+languageCode: en-us
+theme: hugo-winston-theme
+title: Hugo Winston Theme
+paginate: 3
+pygmentsCodeFences: yes
+pygmentsCodefencesGuessSyntax: yes
+pygmentsUseClasses: yes
+module:
+  hugoVersion:
+    extended: yes
+    min: 0.55.0
+params:
+  addDot: yes
+  addFrame: yes
+  baseColor: '#ffffff'
+  baseOffsetColor: '#eaeaea'
+  dotColor: '#7b16ff'
+  google_analytics_id: ''
+  headingColor: '#1c1b1d'
+  highlightColor: '#7b16ff'
+  showAuthorOnHomepage: yes
+  showAuthorOnPosts: no
+  showPostsOnHomepage: no
+  textColor: '#4e5157'
+  twitter_handle: '@zerostaticio'
+markup:
+  goldmark:
+    renderer:
+      hardWraps: no
+      unsafe: yes
+      xhtml: no
+menu:
+  main:
+    - identifier: home
+      name: Home
+      url: /
+      weight: 1
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 300
