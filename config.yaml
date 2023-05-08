@@ -39,4 +39,4 @@ menu:
     - identifier: tags
       name: Tags
       url: /tags/
-      weight: 300
+      weight: 3

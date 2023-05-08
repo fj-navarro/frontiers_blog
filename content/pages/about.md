@@ -3,7 +3,7 @@ image: images/writer.jpeg
 menu:
   main:
     name: About
-    weight: 3
+    weight: 4
 title: About
 url: about
 ---
