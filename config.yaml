@@ -23,7 +23,7 @@ params:
   showAuthorOnPosts: yes
   showPostsOnHomepage: no
   textColor: '#4e5157'
-  twitter_handle: '@zerostaticio'
+  # twitter_handle: '@zerostaticio'
 markup:
   goldmark:
     renderer:

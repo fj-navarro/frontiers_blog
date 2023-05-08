@@ -6,14 +6,14 @@
       "image": "images/social/twitter.svg"
     },
     {
-      "name": "github",
-      "url": "https://github.com/zerostaticthemes/hugo-winston-theme",
-      "image": "images/social/github.svg"
-    },
-    {
       "name": "linkedin",
       "url": "https://www.linkedin.com",
       "image": "images/social/linkedin.svg"
+    },
+    {
+      "name": "github",
+      "url": "https://github.com/zerostaticthemes/hugo-winston-theme",
+      "image": "images/social/github.svg"
     }
   ]
 }
