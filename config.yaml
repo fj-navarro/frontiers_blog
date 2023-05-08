@@ -16,7 +16,7 @@ params:
   baseColor: '#ffffff'
   baseOffsetColor: '#eaeaea'
   dotColor: '#7b16ff'
-  google_analytics_id: ''
+  google_analytics_id: 'G-S6NVJDT3TL'
   headingColor: '#1c1b1d'
   highlightColor: '#7b16ff'
   showAuthorOnHomepage: yes
