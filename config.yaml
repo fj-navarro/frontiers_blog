@@ -1,7 +1,7 @@
-baseURL: /
+baseURL: frontiersinbusinesstransformation.com/
 languageCode: en-us
 theme: hugo-winston-theme
-title: Hugo Winston Theme
+title: A participatory research project
 paginate: 3
 pygmentsCodeFences: yes
 pygmentsCodefencesGuessSyntax: yes
@@ -20,7 +20,7 @@ params:
   headingColor: '#1c1b1d'
   highlightColor: '#7b16ff'
   showAuthorOnHomepage: yes
-  showAuthorOnPosts: no
+  showAuthorOnPosts: yes
   showPostsOnHomepage: no
   textColor: '#4e5157'
   twitter_handle: '@zerostaticio'

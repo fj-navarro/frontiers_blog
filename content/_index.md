@@ -1,5 +1,5 @@
 ---
-description: The hallway smelt of boiled cabbage and old rag mats.
+description: A participatory research project.
 title: Frontiers in Business Transformation
 ---
 

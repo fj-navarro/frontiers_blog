@@ -4,5 +4,5 @@ menu:
   main:
     name: Blog
     weight: 2
-title: Blog
+title: Knowledge
 ---
