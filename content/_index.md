@@ -7,4 +7,4 @@ title: Frontiers in Business Transformation
 
 <p>This initiative is independent and beyond the interests of any third party, and does not have resources of any kind from the entities mentioned on the site, beyond those provided by the author himself.</p>
 
-<p> Start your journey <a href="/posts">here</a></p>
+<p> > Start your journey <a href="/posts">here</a></p>
