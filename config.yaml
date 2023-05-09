@@ -40,3 +40,7 @@ menu:
       name: Tags
       url: /tags/
       weight: 3
+    - identifier: book
+      name: Book
+      url: "https://managingsmart.fjnavarro.es/"
+      weight: 4

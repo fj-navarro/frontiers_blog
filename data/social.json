@@ -1,18 +1,18 @@
 {
   "links": [
     {
-      "name": "twitter",
-      "url": "https://twitter.com/zerostaticio",
-      "image": "images/social/twitter.svg"
+      "name": "website",
+      "url": "https://fjnavarro.es",
+      "image": "images/social/www.svg"
     },
     {
       "name": "linkedin",
-      "url": "https://www.linkedin.com",
+      "url": "https://linkedin.com/in/navarrofj/",
       "image": "images/social/linkedin.svg"
     },
     {
       "name": "github",
-      "url": "https://github.com/zerostaticthemes/hugo-winston-theme",
+      "url": "https://github.com/fj-navarro/frontiers_blog",
       "image": "images/social/github.svg"
     }
   ]
