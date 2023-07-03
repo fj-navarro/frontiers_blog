@@ -1,5 +1,5 @@
 ---
-description: Bringing top-noth knowledge for CXOs.
+description: Bringing top-notch knowledge for CXOs.
 title: Frontiers in Business Transformation
 ---
 

@@ -2,10 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/categories/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+    <loc>/tags/concept/</loc>
+    <lastmod>2023-04-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/posts/digitalization/</loc>
+    <lastmod>2023-04-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/</loc>
+    <lastmod>2023-04-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2023-04-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
     <loc>/posts/2020-12-01-r-rmarkdown/</loc>
@@ -21,9 +30,6 @@
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
     <loc>/tags/regression/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
     <loc>/tags/lorem/</loc>
