@@ -1,6 +1,6 @@
 ---
 date: "2023-04-07"
-description: 
+description: A news that is great
 image: images/cctv2.jpeg
 imageAltAttribute: CCTV Camera
 tags:
