@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on A participatory research project</title>
-    <link>frontiersinbusinesstransformation.com/categories/</link>
+    <link>/categories/</link>
     <description>Recent content in Categories on A participatory research project</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Dec 2020 21:13:14 -0500</lastBuildDate><atom:link href="frontiersinbusinesstransformation.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 01 Dec 2020 21:13:14 -0500</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>R</title>
-      <link>frontiersinbusinesstransformation.com/categories/r/</link>
+      <link>/categories/r/</link>
       <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
       
-      <guid>frontiersinbusinesstransformation.com/categories/r/</guid>
+      <guid>/categories/r/</guid>
       <description></description>
     </item>
     
