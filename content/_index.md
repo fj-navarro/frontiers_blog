@@ -1,5 +1,5 @@
 ---
-description: A participatory research project.
+description: Bringing top-noth knowledge for CXOs.
 title: Frontiers in Business Transformation
 ---
 
