@@ -5,7 +5,7 @@ image: images/cctv2.jpeg
 imageAltAttribute: CCTV Camera
 tags:
 - concept
-title: Digitalization
+title: Digitalization: Cleaning up the Dirt beneath the Carpet
 ---
 
 Defining digital transformation is not straightforward. The literature on digital transformation is vast and many authors and organizations have contributed their particular vision of the phenomenon in recent years, generally emphasizing those dimensions that most affected or concerned them. 
