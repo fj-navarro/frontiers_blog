@@ -1,18 +1,19 @@
 ---
 date: "2023-04-07"
-description: A news that is great
+description: Being clear about the main concepts surrounding that of digitalization is no longer straightforward. The term has been so abused by so many people with so many different intentions that it has ceased to be useful for sharing ideas with each other, and shrouded in tons of dust and without substance.
 image: images/cctv2.jpeg
 imageAltAttribute: CCTV Camera
 tags:
-- concept
+- Basics of Transformation
+- Digitalization
 title: Still Confused with the Differences between Digitization, Digitalization and Digital Transformation? 
 ---
 
-Being clear about some of the key concepts surrounding that of digitalization is no longer straightforward. The term has been so abused by so many people with so many interests that it has ceased to be useful for sharing ideas with others, shrouded in tons of dust, and left without substance, probably forever.
+Being clear about the main concepts surrounding that of digitalization is no longer straightforward. The term has been so abused by so many people with so many different intentions that it has ceased to be useful for sharing ideas with each other, and shrouded in tons of dust and without substance.
 
-To make matters worse, the review of the literature does not help at all if we seek to clarify things. The literature related to digitization is simply gigantic and reflects how thousands of contributors from the organizational, consulting, technological and even public spheres have contributed their own vision of the phenomenon in recent years, generally emphasizing those dimensions that most affected them. 
+To make matters worse, the literature on digitalization and related disciplines does not help at all if we seek to clarify things. The production of knowledge around digitalization, with a fairly uneven and variable level of quality, let it be said, is simply gigantic and reflects the contribution of thousands of practitioners, consultants, technologists, and even public officials, who have contributed their own vision of the phenomenon in recent years, generally emphasizing those dimensions that most affected them.
 
-The end result after the long years of the digitalization hype has been a biased concept whose meaning depends on who uses it and emptied of a true shared meaning with which to work effectively. 
+The end result after long years of digitalization hype is a highly biased concept whose meaning depends on who uses it, when and in what context, and which currently lacks a significance shared by the community of transformational leaders. Let's see if this article can help clarify some related but different terms once and for all.
 
 ## Academics vs Professionals  
 Although academics and practitioners generally take it for granted that digitalization affects and challenges business owners and managers in all industries and contexts, the truth is that there is an overwhelming lack of clarity when it comes to understanding it. One of the main challenges is that there is no reconciled definition of the core elements that make up digitalization.
