@@ -29,16 +29,16 @@ Digital technologies, coupled with organizational capabilities, create endless o
 
 ## Dimensions of Digital Transformation
 
-Rather than worry about the evolutionary or disruptive nature of digital transformation, transformational leaders need to be aware of the three dimensions ([Figure 1](#figure-dimensions)) that shape digital transformation.
+Rather than worry about the evolutionary or disruptive nature of digital transformation, transformational leaders need to be aware of the three dimensions ([Figure 1](#dimensions)) that shape digital transformation.
 
 -   The **technological dimension**, since digital transformation is based around the use of digital technologies that include infrastructures, networks, devices, as well as the software that makes digital applications possible.
 
 -   The **organizational dimension**, since digital transformation itself entails a significant change in the organizational processes, and even in the culture and business model of the business firm.
 
--   The **social dimension**, since digital transformation is a process that affects consumer behavior and beliefs, both individually and in society (i.e., the way people consume products and services, the reasons why consumers prefer some channels to others, the way people interact with friends and family, or how people enjoy an experience).
+-   The **social dimension**, since digital transformation is a process that affects consumer behavior and beliefs, both individually and in society (i.e., the way people consume products and services, the reasons why consumers prefer some channels to others, the way people interact with friends and family, or how people enjoy an experience). <img src="index_files/230708-image-1.png" alt="Dimensions of Digital Transformation" id="dimensions"/>
 
-{{< figure src="index_files/230708-image-1.png" id="dimensions" >}}
-Figure 1: Dimensions of Digital Transformation 
+Figure 1: Dimensions of Digital Transformation
+
 Source: Own elaboration
 
 The complex interaction of these three dimensions within any digital transformation initiative means that the mere implementation of digital technologies in the organization is not enough. Rather, digital transformation encompasses far-reaching changes that extend to organizational management, the firm's operational processes, and its own organizational culture. This large-scale change process affects all members of the organization and their way of relating to the customer, leading to improvements in the firm's performance and the creation of competitive advantages.
