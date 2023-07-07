@@ -1,9 +1,6 @@
 ---
 date: "2023-07-04"
-description: Managing digital transformation requires orchestrating work within the firm to achieve better products/services and build business models that harness the benefits offered by digital technologies. It is thus important that tourism firms consider their own digital transformation very seriously, since those firms that fail to adapt to the digital environment will fall victim to “digital darwinism”
-output: 
-  bookdown::html_document2: 
-    keep_md: true
+description: Managing digital transformation requires orchestrating work within the firm to achieve better products/services and build business models that harness the benefits offered by digital technologies. Firms must consider digital transformation seriously, whether it takes place in an evolutionary or disruptive way, because those companies that do not adapt to the digital environment will be victims of "digital Darwinism".
 image: images/230708_evolutionary.png
 imageAltAttribute: Digital Transformation, Evolutionary or Disruptive?
 title: Digital Transformation, Evolutionary or Disruptive?
