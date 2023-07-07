@@ -43,6 +43,6 @@ Therefore, digital transformation is different from that of digitization and the
 
 The figure below describes this conceptual journey from digitization to digital transformation:
 
-![The Conceptual Journey of Digitalization](images/230704_digitization.png)
+![The Conceptual Journey of Digitalization](index_files/230707_digitalization.png)
 
 Source: own elaboration
