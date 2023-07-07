@@ -1,7 +1,7 @@
 ---
 date: "2023-04-07"
 description: Being clear about the main concepts surrounding that of digitalization is no longer straightforward. The term has been so abused by so many people with so many different intentions that it has ceased to be useful for sharing ideas with each other, and shrouded in tons of dust and without substance. This article attempts to help clear up some related but different terms once and for all.
-image: images/230707_digitalization.jpeg
+image: images/230707_digitalization.png
 imageAltAttribute: The Conceptual Journey of Digitalization
 tags:
 - Basics of Transformation
