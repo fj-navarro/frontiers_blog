@@ -1,5 +1,5 @@
 ---
-date: "2023-07-08"
+date: "2023-07-04"
 description: Managing digital transformation requires orchestrating work within the firm to achieve better products/services and build business models that harness the benefits offered by digital technologies. It is thus important that tourism firms consider their own digital transformation very seriously, since those firms that fail to adapt to the digital environment will fall victim to “digital darwinism”
 output: 
   bookdown::html_document2: 
