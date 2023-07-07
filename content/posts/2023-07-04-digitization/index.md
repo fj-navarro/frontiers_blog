@@ -5,7 +5,7 @@ image: images/cctv2.jpeg
 imageAltAttribute: CCTV Camera
 tags:
 - concept
-title: Digitization, Digitalization and Digital Transformation. Untangling a Big Mess
+title: Still Confused with the Differences between Digitization, Digitalization and Digital Transformation? 
 ---
 
 Being clear about some of the key concepts surrounding that of digitalization is no longer straightforward. The term has been so abused by so many people with so many interests that it has ceased to be useful for sharing ideas with others, shrouded in tons of dust, and left without substance, probably forever.
