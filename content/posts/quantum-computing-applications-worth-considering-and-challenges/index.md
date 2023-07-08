@@ -1,5 +1,5 @@
 ---
-title: Are You Thinking in These Quantum Computing Applications and Challenges?
+title: Quantum Computing Applications Worth Considering and Challenges
 description:  
 date: "2023-06-28"
 imageAltAttribute: Quantum Computing Applications
