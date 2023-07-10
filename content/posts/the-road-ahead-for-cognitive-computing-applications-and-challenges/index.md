@@ -1,7 +1,7 @@
 ---
 title: Before and After Computing Using Cognitive Computing
 description: Cognitive computing technologies are fundamentally different from all other forms of computing used so far. Similar to how human learning evolves from birth to adulthood, a cognitive system learns and becomes more intelligent over time from the information it gains each time it interacts with its environment and the experience it accumulates. This paradigm shift from rule-based computing to autonomous learning and reasoning promises to change computing forever. 
-date: "2023-07-21"
+date: "2023-06-21"
 imageAltAttribute: Digital Transformation, Evolutionary or Disruptive?
 image: images/230708_evolutionary.png
 tags:
