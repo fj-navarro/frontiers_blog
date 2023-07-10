@@ -1,4 +1,5 @@
 ---
+draft: true
 date: "2018-12-29"
 description: Once again he glanced at his rival in the opposite cubicle. Something
   seemed to tell him with certainty that Tillotson was busy on the same job as himself.
