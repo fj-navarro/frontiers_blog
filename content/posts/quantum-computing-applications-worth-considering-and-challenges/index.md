@@ -1,5 +1,5 @@
 ---
-title: Quantum Computing Applications Worth Considering and Challenges
+title: Quantum Computing Applications Worth Considering (and Challenges)
 description: The relentless progress in both quantum hardware and the development of quantum algorithms has brought quantum computing much closer to real-life use cases. As an emerging paradigm, quantum computing offers the potential to provide a significant computational advantage over conventional classical computing by exploiting the principles of quantum mechanics, and this article dives into some of the upcoming applications with the greatest practical potential.
 date: "2023-06-14"
 imageAltAttribute: Quantum Computing Applications
