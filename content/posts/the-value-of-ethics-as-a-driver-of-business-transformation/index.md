@@ -33,4 +33,4 @@ As value creation networks increase in complexity, companies must satisfy the mu
 
 Companies must balance the demands of multiple parties, without compromising their performance or their ability to maintain their competitive advantages over time. At times this may require a company to redefine perceptions of what is considered right and wrong. For example, for a platform owner, an ethical challenge may now be how to ensure that one party’s demands are not met at the expense of others (i.e., if the platform grants access to the data to one party, then the other party should not perceive it as a breach of security and privacy).
 
-<p style= "font-size:10px;">Photo by <a href="https://www.freepik.es/foto-gratis/naturaleza-muerta-que-ilustra-concepto-etica_26407570.htm#page=2&query=ethics&position=49&from_view=search&track=sph" alt="_blank">Freepik</a></p>
+<p style= "font-size:10px;">Photo by <a href="https://www.freepik.es/foto-gratis/naturaleza-muerta-que-ilustra-concepto-etica_26407570.htm#page=2&query=ethics&position=49&from_view=search&track=sph" target="_blank">Freepik</a></p>

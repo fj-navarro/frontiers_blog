@@ -54,4 +54,4 @@ Before any quantum computer can solve a complex problem, the industry will have 
 
 Finally, it is quite relevant that quantum computing still does not have its own high-level programming language. What this means is that the algorithms are processed by building quantum circuits to which available quantum gates or operations are systematically applied to find the desired solution. An example of industry efforts to address this issue is a visual programming tool provided by IBM for beginners to code and learn how to use a quantum computer.
 
-<p style= "font-size:10px;">Photo by vecstock <a href="https://www.freepik.es/foto-gratis/resplandeciente-complejidad-chips-informaticos-industria-electronica-generada-ia_42586641.htm#&position=0&from_view=search&track=ais" alt="_blank">Freepik</a></p>
+<p style= "font-size:10px;">Photo by vecstock <a href="https://www.freepik.es/foto-gratis/resplandeciente-complejidad-chips-informaticos-industria-electronica-generada-ia_42586641.htm#&position=0&from_view=search&track=ais" target="_blank">Freepik</a></p>
