@@ -1,7 +1,7 @@
 baseURL: /
 languageCode: en-us
 theme: hugo-winston-theme
-title: Bringing top-notch knowledge for Transformation Leaders
+title: Top-notch knowledge for Transformation Leaders
 paginate: 5
 pygmentsCodeFences: yes
 pygmentsCodefencesGuessSyntax: yes
