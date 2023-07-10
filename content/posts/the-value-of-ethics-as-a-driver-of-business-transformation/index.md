@@ -1,7 +1,6 @@
 ---
-title: "Digital Transformation, Evolutionary or Disruptive?"
-description: 
-date: "2023-07-04"
+title: The Value of Ethics as a Driver of Business Transformation
+date: "2023-07-28"
 imageAltAttribute: Ethics in Business Transformation
 image: images/230708_evolutionary.png
 ---

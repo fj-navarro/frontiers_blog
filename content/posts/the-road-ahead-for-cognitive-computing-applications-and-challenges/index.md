@@ -1,11 +1,11 @@
 ---
-title: "Digital Transformation, Evolutionary or Disruptive?"
+title: The Road Ahead for Cognitive Computing Applications and Challenges
 description: Managing digital transformation requires orchestrating work within the
   firm to achieve better products/services and build business models that harness
   the benefits offered by digital technologies. Firms must consider digital transformation
   seriously, whether it takes place in an evolutionary or disruptive way, because
   those that do not adapt to the digital environment will be victims of "digital Darwinism".
-date: "2023-07-04"
+date: "2023-07-21"
 imageAltAttribute: Digital Transformation, Evolutionary or Disruptive?
 image: images/230708_evolutionary.png
 ---
