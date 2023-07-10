@@ -3,7 +3,7 @@ title: The Value of Ethics as a Driver of Business Transformation
 date: "2023-06-28"
 description: The ethical considerations that arise from deep business transformation often go unnoticed by transformational leaders. However, ethical behavior in business transformation plays an increasingly important role, since it can provide new perspectives to understand both the transformation processes themselves and the new impacts that are emerging.
 imageAltAttribute: The Value of Ethics in Business Transformation
-image: images/the-value-of-ethics.jpg
+image: images/the-value-of-ethics.png
 tags:
 - Ethics
 ---
