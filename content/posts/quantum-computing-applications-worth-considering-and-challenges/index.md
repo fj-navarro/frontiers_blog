@@ -4,6 +4,8 @@ description: The relentless progress in both quantum hardware and the developmen
 date: "2023-06-14"
 imageAltAttribute: Quantum Computing Applications
 image: images/quantum-computing-applications.png
+tags:
+- Technologies
 ---
 
 The idea of quantum computing arose from the reflection made by scientists about the fundamental limits of computing. What they surmised is that if technology continued to comply with Moore’s Law (which states that the number of transistors in a microprocessor doubles approximately every 2 years), then the shrinking size of the circuits within a silicon chip would eventually reach a point where individual elements would not exceed the size of a few atoms. Consequently, the physical laws that would govern the properties and behavior of circuits on a subatomic scale would no longer be the classical ones but rather quantum mechanics. This gave rise to the possibility of creating a computer based on the principles of quantum physics.
