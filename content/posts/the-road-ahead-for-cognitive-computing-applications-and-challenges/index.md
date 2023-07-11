@@ -1,5 +1,5 @@
 ---
-title: Before and After Computing Using Cognitive Systems
+title: Before and After Computing With Cognitive Systems
 description: Cognitive computing technologies are fundamentally different from all other forms of computing used so far. Similar to how human learning evolves from birth to adulthood, a cognitive system learns and becomes more intelligent over time from the information it gains each time it interacts with its environment and the experience it accumulates. This paradigm shift from rule-based computing to autonomous learning and reasoning promises to change computing forever. 
 date: "2023-06-21"
 imageAltAttribute: Cognitive Systems
@@ -41,3 +41,5 @@ According to the commercial information provided by Intel, Loihi enables acceler
 The confluence of cognitive technologies with Big Data, analytics, the IoT, and cloud computing will greatly expand the number of applications and the impact of cognitive computing. In the course of the coming years, a new generation of cognitive devices and systems will be developed that will be the result of the fusion of cognitive technologies with new tools and devices that will allow users to easily interact in a kind of continuous and dynamic “conversation” with technologies and will impact on the operational processes and decision-making systems of firms. 
 
 Perhaps this will make it possible for humans and machines to work together in the future to extend human capabilities, especially those associated with knowledge, finding relevant patterns in large dynamic data, and making optimal decisions; and discover a new generation of cognitive products.
+
+<p style= "font-size:10px;">Photo by jcomp <a href="https://www.freepik.es/foto-gratis/cerebro-escribe-tiza-blanca-mano-dibuja-concepto_6170400.htm#&position=0&from_view=search&track=ais" target="_blank">Freepik</a></p>

@@ -1,5 +1,5 @@
 ---
-title: Opportunities of BDAI as-a-Service
+title: Breaking the Rule of Smartness with BDAI as-a-Service
 description: The combination of Big Data, analytics, and AI (BDAI) is going to generate great business opportunities and competitive advantages for companies around the world. Through the integration and interoperability of these technologies, companies are going to be able to transform their operations and business model and, in the medium and long term, obtain significant gains in efficiency and productivity.
 date: "2023-06-14"
 imageAltAttribute: BDAI as-a-Service
@@ -36,3 +36,5 @@ Since cloud computing is at the heart of BDAIaaS, companies would have at their 
 Companies could take advantage of BDAIaaS to minimize the costs of infrastructure and implementation of the different tools, in addition to quickly extracting meaning from complex data sets created from statistical analyses and models. In short, organizations would substantially improve the time to value generation. 
 
 Today research continues on what is the best option to deliver BDAIaaS solutions and how to make them mainstream for companies. Still, the “aaS” model is expected to grow strongly in the coming years, moving beyond the cloud to enter our daily lives through mobile devices, thus creating a rich universe of new services for consumers and businesses.
+
+<p style= "font-size:10px;">Photo by senivpetro <a href="https://www.freepik.es/foto-gratis/dos-guapos-camareros-estudiando-cerveza-pub_6641543.htm#&position=0&from_view=search&track=ais" target="_blank">Freepik</a></p>
