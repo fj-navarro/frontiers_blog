@@ -42,3 +42,5 @@ Digital transformation emphasizes aspects related to cultural change, the way in
 Therefore, digital transformation is different from that of digitization and their meanings are not interchangeable. Meanwhile, both digitalization and digital transformation make use of digitization and digital innovation with the intention of improving the firm's products and services.
 
 Be sure to check the image above that illustrates this conceptual journey from digitization to digital transformation.
+
+Image: Francisco J Navarro-Meneses (2023)
