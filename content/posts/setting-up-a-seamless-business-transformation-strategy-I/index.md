@@ -1,8 +1,8 @@
 ---
 title: Setting Up a Successful Business Transformation Strategy (I)
 date: "2023-05-31"
-description: Companies are constantly changing, adapting their structures, resources, and objectives as they evolve to overcome the inertia that impedes change. Different approaches are possible when it comes to addressing the transformation of businesses and that imply different ways of understanding the moment and the opportunity to carry out the changes. Each one will have consequences on the risks and costs of the transformation.
-image: images/setting-up-successful.png
+description: Companies are constantly changing, adapting their structures, resources, and objectives as they evolve to overcome the inertia that impedes change. There are different approaches when it comes to addressing business transformation that imply different ways of understanding the reasons, timing and opportunity to carry out the changes and that have consequences on the risks and costs of the transformation.
+image: images/setting-up-successful.jpg
 tags:
 - Management
 - Leadership
