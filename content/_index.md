@@ -1,5 +1,5 @@
 ---
-description: Bringing top-notch knowledge for CXOs.
+description: Welcome to FiBT
 title: Frontiers in Business Transformation
 ---
 

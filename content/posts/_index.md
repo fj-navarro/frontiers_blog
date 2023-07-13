@@ -2,7 +2,7 @@
 date: "2019-02-24"
 menu:
   main:
-    name: Knowledge
+    name: Insights
     weight: 2
-title: Knowledge
+title: Insights
 ---
