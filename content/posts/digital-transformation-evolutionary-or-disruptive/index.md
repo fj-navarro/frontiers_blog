@@ -5,7 +5,7 @@ description: Managing digital transformation requires orchestrating work within 
   the benefits offered by digital technologies. Firms must consider digital transformation
   seriously, whether it takes place in an evolutionary or disruptive way, because
   those that do not adapt to the digital environment will be victims of "digital Darwinism".
-date: "2023-06-07"
+date: "2023-05-10"
 imageAltAttribute: Digital Transformation, Evolutionary or Disruptive?
 image: images/digital-transformation-evolutionary.png
 tags:
