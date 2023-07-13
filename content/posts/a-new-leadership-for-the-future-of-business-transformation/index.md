@@ -1,7 +1,7 @@
 ---
 title: A New Leadership for the Future of Business Transformation
 date: "2023-07-12"
-description: Business transformation is best managed when there are smart leaders who recognize the needs of the organization and are willing to guide it on the right direction. Smart leadership is a critical capability that companies need to put to work to address all the transformational changes required to build a data-driven culture in the organization.
+description: Business transformation is best managed when there are smart leaders who recognize the needs of the organization and are willing to guide it on the right direction. Smart leadership is a critical capability that companies must put into practice when they set out to build a data-driven culture in the organization.
 image: images/a-new-leadership.jpg
 tags:
 - Management
@@ -28,6 +28,7 @@ Becoming a smart organization requires well-defined leadership that shares a cle
 
 Smart transformational leaders encourage the use of data and successfully guide the organization to extract value from Big Data and analytics, making it easier for data applications to consistently deliver their benefits to the organization. This requires smart organizational decisions and the commitment of visionary leaders who inspire a new data-centric culture. To achieve this, they must become role models in the use of data, counting on the skills and abilities that allow them to overcome the technical and organizational obstacles that arise when it comes to creating value from data.
 
+## Smart Leaders and Data Worship
 Smart transformational leaders view data as a key asset that all employees should have access to and know how to use. They understand that data and analytics can greatly enhance the organization’s ability to innovate and respond to changing customer needs and preferences, being, ultimately, an asset that strengthens the competitive advantage of their business.
 
 Smart transformational leaders stand out because they emphasize the systematic use of data throughout the organization not only to address operational or tactical problems, or to create more compelling reports, but also to integrate data into decision-making processes that lead to the allocation of resources, put new products and services on the market, or promote changes in business models. 
