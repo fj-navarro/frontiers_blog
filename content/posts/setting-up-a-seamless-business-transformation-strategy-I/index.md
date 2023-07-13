@@ -1,5 +1,5 @@
 ---
-title: Setting Up a Seamless Business Transformation Strategy (I)
+title: Setting Up a Successful Business Transformation Strategy (I)
 date: "2023-05-31"
 description: Business  
 image: images/a-new-leadership.jpg
@@ -7,7 +7,7 @@ tags:
 - Management
 - Leadership
 ---
-Building a transformation strategy on top of the dynamic capabilities and ![ambidexterity](https://frontiersinbusinesstransformation.com/posts/the-art-of-ambidexterity-crucial-for-organizational-transformation/) of the company through the implementation of multiple simultaneous projects is an effective way to reduce risks and have better cost performance.
+Building a transformation strategy on top of the dynamic capabilities and [ambidexterity](/posts/the-art-of-ambidexterity-crucial-for-organizational-transformation/) of the company through the implementation of multiple simultaneous projects is an effective way to reduce risks and have better cost performance.
 
 Smart organizations are constantly changing, adapting their structures, resources, and objectives as they evolve to overcome the inertia that impedes change. This is different from those organizations that perceive the need to transform as a result of episodic external events (or disruptions) that alter a previous equilibrium situation and that affect the internal structures of the organization, which must then be replaced by others.
 
@@ -35,4 +35,4 @@ Only when transformational leaders become aware of the specific context in which
 
 Acting in these areas can be a source of inspiration to create innovative products and services, optimize key business processes, improve decision-making, and evolve to an agile culture that finally leads to a smart data-driven organization.
 
-See more in “Setting Up a Successful Business Transformation Strategy (II)”
+See more in [Setting Up a Successful Business Transformation Strategy (II)](/posts/setting-up-a-seamless-business-transformation-strategy-II/)
