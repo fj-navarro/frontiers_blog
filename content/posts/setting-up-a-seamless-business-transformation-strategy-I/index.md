@@ -1,7 +1,7 @@
 ---
-title: Setting Up a Successful Business Transformation Strategy (I)
+title: Setting Up a Successful Transformation Strategy with Smart Technologies (I)
 date: "2023-05-31"
-description: Companies are constantly changing, adapting their structures, resources, and objectives as they evolve to overcome the inertia that impedes change. There are different approaches when it comes to addressing business transformation that imply different ways of understanding the reasons, timing and opportunity to carry out the changes and that have consequences on the risks and costs of transformation.
+description: Companies are constantly changing, adapting their structures, resources, and objectives as they evolve to overcome the inertia that impedes change. There are different approaches when it comes to addressing business transformation with smart technologies that imply different ways of understanding the reasons, timing and opportunity to carry out the changes and that have consequences on the risks and costs of transformation.
 image: images/setting-up-successful.jpg
 tags:
 - Management
@@ -35,6 +35,6 @@ Only when transformational leaders become aware of the specific context in which
 
 Acting in these areas can be a source of inspiration to create innovative products and services, optimize key business processes, improve decision-making, and evolve to an agile culture that finally leads to a smart data-driven organization.
 
-See more in [Setting Up a Successful Business Transformation Strategy (II)](/posts/setting-up-a-seamless-business-transformation-strategy-II/)
+See more in [Setting Up a Successful Transformation Strategy with Smart Technologies (II)](/posts/setting-up-a-seamless-business-transformation-strategy-II/)
 
 <p style= "font-size:10px;">Photo by <a href="https://www.nasa.gov/sites/default/files/thumbnails/image/artemis_i_launch_nhq202211160029.jpg" target="_blank">NASA</a></p>
