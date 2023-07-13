@@ -1,5 +1,5 @@
 ---
-image: images/writer.jpeg
+image: images/about.png
 menu:
   main:
     name: About
