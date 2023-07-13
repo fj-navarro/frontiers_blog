@@ -1,47 +1,41 @@
 ---
-title: Setting Up a Successful Transformation Strategy with Smart Technologies (II)
-date: "2023-06-07"
-description: Companies are constantly changing, adapting their structures, resources, and objectives as they evolve to overcome the inertia that impedes change. There are different approaches when it comes to addressing business transformation with smart technologies that imply different ways of understanding the reasons, timing and opportunity to carry out the changes and that have consequences on the risks and costs of transformation.
-image: images/setting-up-successful.jpg
+title: Tackling Smart Transformation by Developing Dynamic Capabilities
+date: "2023-05-17"
+description: In the new era of data and smart technologies, the tangible resources on which the fundamental competitive capabilities of businesses used to be based are beginning to lose relevance in favor of the intangible assets and services delivered by organizations. By developing a dynamic capabilities strategy companies can strengthen their ability to deliberately modify their resource base and cope with the challenges of business transformation.
+image: images/dynamic-capabilities.jpg
 tags:
 - Management
 - Leadership
 ---
-### Value offerings
-Smart technologies provide the ability for companies to create new value offerings from reviewing or expanding their existing portfolio of products and services. These new value offerings are determined by the organization’s ability to collect and analyze data on customers from their interactions with the products and services, as well as by incorporating increasingly innovative elements into them.
 
-A paradigmatic example of the creation of new value offerings through smart technologies is Airbnb, whose business model is based on the ability to collect information from customers and partners and use data insights to better understand how customers travel and what accommodations they prefer when visiting a travel destination. Putting this knowledge into action means that Airbnb provides customers with real-time solutions in the form of accommodation recommendations that best suit their preferences. 
+In the new era of data and smart technologies, the consumer is king when firms must decide on new technologies and business transformation. In these new times, the tangible resources (including the tangible products) on which the fundamental competitive capabilities of businesses were based are beginning to lose relevance in favor of the intangible assets and services delivered by the organization. Furthermore, the ability of organizations to open up to the outside world and interact with other players in multiple business ecosystems becomes critical.
 
-When companies equip themselves with the right smart technologies and capabilities, they are opening up new possibilities to better understand customer needs and preferences and deliver the experiences that customers want, how, where, and when they demand them.  Furthermore, companies are much closer to creating personalized value offerings and implementing value co-creation initiatives aimed at deepening customer engagement.
+The new rules of the game that are constantly emerging are having a strong impact on the way in which value networks are configured, which are becoming more and more extensive and complex. The ultimate consequence is that companies have to operate in a much more turbulent, uncertain and hyper-competitive environment.
 
-### Value networks
-Smart technologies make it possible to redefine value networks across the whole business ecosystem. On the one hand, smart technologies give customers and users the ability to become co-creators of value, facilitating continuous communication and interaction between them and companies through online platforms, communities, social media, or online channels enabled by the firms themselves. 
+## New Times Means New Opportunities
 
-On the other hand, smart technologies facilitate interaction and direct exchanges between value network participants (i.e., customers, users, firms) bypassing intermediaries and favoring new collaborative relationships between the different actors focused on value creation.
+To manage all the complexity that surrounds them, companies must devise mechanisms to sense what is happening and quickly adapt to the changes that occur inside and outside their competitive environment, optimizing the organization's key processes (i.e., with robotization, automating tasks), creating new sources of revenue (i.e., personalized services), or developing new business models (i.e., Uber, Airbnb).
 
-As the collaborative ties and coordination between the actors are strengthened, increasingly complex and omnidirectional relationships emerge between the stakeholders of the ecosystem that can end up creating more value for the customer. In view of these positive effects, it is key that transformational leaders encourage stakeholders to engage with smart technologies that promote the joint creation of value.
+In fact, these new environmental circumstances are not much different from previous times when disruption was also the trend, for example, when the Internet revolution began. What is different this time is the way companies must act to achieve their goals, and the much larger size of the opportunities that lie ahead for those who know how to seize them.
 
-### Distribution channels
-Smart technologies have a significant impact on distribution and sales channels, through which many companies are redefining the way they deliver value to the customer. Companies are using smart technologies to create new direct and bidirectional touch points and communication channels with their customers and users (i.e., social media, chatbots, IoT, communities) that foster continuous dialogue with them and close the gap between the physical and digital world.
+## Dynamic Capabilities as a Key Transformational Strategy
 
-Likewise, the use of sensors and technologies based on IoT, although still at an early stage, could contribute to making the operation of supply chains and the provision of products and services more efficient through the automation of tasks and data-driven decision-making.
+A resulting challenge that continues to be important these days is how companies can stay relevant to increasingly digital and savvy customers, and how they can build a deeper and lasting engagement with them that will earn companies more pocket share. And one of the most compelling ways to achieve this is through dynamic capabilities, that is, by strengthening the ability of companies to deliberately modify their resource base, and by acquiring ever-higher levels of digital maturity through successive waves of digital and organizational innovation.
 
-### Business models
-Business model transformation can create new value for organizations, especially when the new models are based on emerging technological developments and the provision of innovative services to customers. 
+Dynamic capabilities support the way in which companies create, implement, and protect the intangible assets that drive superior business performance over the long term, while helping to develop mechanisms that increase the organization's adaptability to its environment and ensure their competitiveness.
 
-In some cases, the new business models completely transform the way organizations behave and compete until they practically become technology companies, such as those that offer to connect companies with users, or users with other users. In other cases, business models provide value offerings aimed at satisfying certain customer needs, such as those with lower incomes or those seeking a very particular or specialized experience.
+These dynamic capabilities are difficult for other companies to replicate, and they make all the difference when it comes to adapting to customer changes and harnessing the potential of new smart technologies.
 
-There are also business models that aim to create new value using disruptive technologies to find solutions to problems related to sustainability or the shared economy. This is the case, for example, of the new business models arising from sustainable mobility (i.e., car and bike sharing), which lead to new products and services that improve the customer experience. 
+## Dynamic Capabilities in Practice
 
-In recent years, business models based on digital platforms have also emerged that facilitate communication and connection between the different actors in the business ecosystem. An example are reservation and exchange platforms in the accommodation sector (i.e., Booking.com, Airbnb), which create new value propositions for customers based on cost reduction and the integration of value-added services.
+Dynamic capabilities development can be accomplished in the organization through three main mechanisms:
 
-### Organizational agility
-Smart technologies can help companies cope with changes in their environment and adapt more quickly to them. This is possible when companies speed organizational agility, which means developing the ability to acquire knowledge about the environment, detect opportunities, and be able to coordinate responses quickly and accurately. 
+-   **Sensing and detecting opportunities and threats:** companies must constantly explore their environment in search of new technologies and business opportunities, both local and distant. This requires informational resources, analytical and organizational skills, and a culture aimed at acquiring, analyzing, and using data. The speed in acquiring information assets and converting them into useful knowledge becomes the key to maximizing value for the organization.
 
-Systems combining Big Data, data analytics, AI, and IoT provide a huge amount of information and processing capacity that can be used by companies to detect untapped opportunities, increase customer knowledge, and, ultimately, create new customer-centric value. 
+-   **Seizing the opportunities:** Once the organization detects a new (technological or market) opportunity it should be addressed through new products and services and agile processes. Maintaining and enhancing technological competencies and complementary assets is also key to seizing opportunities. Later on, when the opportunity is more mature, the company may decide to invest heavily in the particular technologies and value offerings that are most likely to gain market acceptance.
 
-For example, a company can anticipate the preferences of its customers and offer personalized experiences based on the accumulated knowledge of the customer and the conditions of the context. In this way, smart technologies can drive ambidexterity in the organization, as they encourage exploration through smart innovation and exploitation of existing resources.
+-   **Sustaining competitiveness:** It involves enhancing, recombining, and protecting the tangible and intangible assets of the organization (including the organizational structure) as the company grows and the markets and technologies evolve.
 
-See also in [Setting Up a Successful Transformation Strategy with Smart Technologies (II)](/posts/setting-up-a-seamless-business-transformation-strategy-I/)
+However, there are many cases in which companies do not have the capacity to develop dynamic capabilities and innovate on their own. In such cases, companies need to open up and start collaborating across the platforms and ecosystems they operate in, regardless of whether this means collaborating with customers, partners or even competitors. The integration of smart technologies, provided or co-developed with partners, can definitely move the organization steadily forward in the smart transformation process while simultaneously meeting its business objectives.
 
-<p style= "font-size:10px;">Photo by <a href="https://www.nasa.gov/sites/default/files/thumbnails/image/artemis_i_launch_nhq202211160029.jpg" target="_blank">NASA</a></p>
+<p style= "font-size:10px;">Photo by master1305 <a href="https://www.freepik.es/foto-gratis/retrato-dinamico-joven-mujer-bailando-hiphop-aislado-sobre-fondo-negro-efecto-luces-mixtas_27425932.htm#query=dynamic&position=4&from_view=search&track=sph" target="_blank">Freepik</a></p>
