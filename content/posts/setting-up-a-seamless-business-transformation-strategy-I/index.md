@@ -1,15 +1,15 @@
 ---
 title: Setting Up a Successful Business Transformation Strategy (I)
 date: "2023-05-31"
-description: Companies are constantly changing, adapting their structures, resources, and objectives as they evolve to overcome the inertia that impedes change. There are different approaches when it comes to addressing business transformation that imply different ways of understanding the reasons, timing and opportunity to carry out the changes and that have consequences on the risks and costs of the transformation.
+description: Companies are constantly changing, adapting their structures, resources, and objectives as they evolve to overcome the inertia that impedes change. There are different approaches when it comes to addressing business transformation that imply different ways of understanding the reasons, timing and opportunity to carry out the changes and that have consequences on the risks and costs of transformation.
 image: images/setting-up-successful.jpg
 tags:
 - Management
 - Leadership
 ---
-Building a transformation strategy on top of the dynamic capabilities and [ambidexterity](/posts/the-art-of-ambidexterity-crucial-for-organizational-transformation/) of the company through the implementation of multiple simultaneous projects is an effective way to reduce risks and have better cost performance.
+Smart organizations are constantly changing, adapting their structures, resources, and objectives as they evolve to overcome the inertia that impedes change.Building a transformation strategy on top of the dynamic capabilities and [ambidexterity](/posts/the-art-of-ambidexterity-crucial-for-organizational-transformation/) of the company through the implementation of multiple simultaneous projects is an effective way to reduce risks and have better cost performance.
 
-Smart organizations are constantly changing, adapting their structures, resources, and objectives as they evolve to overcome the inertia that impedes change. This is different from those organizations that perceive the need to transform as a result of episodic external events (or disruptions) that alter a previous equilibrium situation and that affect the internal structures of the organization, which must then be replaced by others.
+This is different from those organizations that perceive the need to transform as a result of episodic external events (or disruptions) that alter a previous equilibrium situation and that affect the internal structures of the organization, which must then be replaced by others.
 
 ## Episodic vs Continuous Transformation Approach
 The continuous change approach to business transformation entails a micro-level perspective, as opposed to the macro-level involved in the episodic change approach. The former does not only respond to external changes that abruptly shake the organization at specific moments (i.e., when a new technology appears), but is substantially driven by the continuous evolution of the contextual conditions in which the organization operates (i.e., by the continuous interaction with customers, the evolution of customers’ consumption expectations, etc.). 
