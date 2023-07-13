@@ -50,4 +50,4 @@ Usually this is the best way to reduce resistance to change and overcome the ine
 
 Interpersonal and cultural aspects play a crucial role in a successful organizational transformation strategies, which should be based on communication and leadership as tools that facilitate the collaboration of employees in the business and IT areas. Maintaining continuous personal interactions at all levels, understanding the objectives pursued, and sharing the necessary knowledge not only should help to reduce the economic and social costs of organizational transformation, but also contribute to accelerating the whole transformation process.
 
-<p style= "font-size:10px;">Photo by pch.vector <a href="https://www.freepik.es/vector-gratis/bote-remos-equipo-negocios_6974857.htm#query=leadership&position=33&from_view=search&track=sph#position=33&query=leadership" target="_blank">Freepik</a></p>
+<p style= "font-size:10px;">Photo by vectorjuice <a href="https://www.freepik.es/vector-gratis/estudiantes-computadoras-portatiles-estan-buscando-informacion-ilustracion-clase-computacion_10780329.htm#page=2&position=13&from_view=search&track=ais" target="_blank">Freepik</a></p>
