@@ -1,5 +1,5 @@
 ---
-title: Breaking the Rule of Smartness with BDAI as-a-Service
+title: Breaking the Rules of Smartness with BDAI as-a-Service
 description: The combination of Big Data, analytics, and AI (BDAI) is going to generate great business opportunities and competitive advantages for companies around the world. Through the integration and interoperability of these technologies, companies are going to be able to transform their operations and business model and, in the medium and long term, obtain significant gains in efficiency and productivity.
 date: "2023-06-14"
 imageAltAttribute: BDAI as-a-Service
