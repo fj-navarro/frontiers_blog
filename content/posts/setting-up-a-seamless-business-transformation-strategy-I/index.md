@@ -1,8 +1,8 @@
 ---
 title: Setting Up a Successful Business Transformation Strategy (I)
 date: "2023-05-31"
-description: Business  
-image: images/a-new-leadership.jpg
+description: Companies are constantly changing, adapting their structures, resources, and objectives as they evolve to overcome the inertia that impedes change. Different approaches are possible when it comes to addressing the transformation of businesses and that imply different ways of understanding the moment and the opportunity to carry out the changes. Each one will have consequences on the risks and costs of the transformation.
+image: images/setting-up-successful.png
 tags:
 - Management
 - Leadership
@@ -16,7 +16,7 @@ The continuous change approach to business transformation entails a micro-level 
 
 It is precisely the constant evolution of these contextual conditions, and the complexity arising from the growing interconnection between the actors of the business ecosystems, which determines the degree of transformation that the company will require: from continuous incremental micro-adaptations to more profound selective changes that introduce new organizational configurations. Ultimately, the organization should always remain aligned with the contextual conditions in which it operates, seeking an adequate balance between continuous and episodic change.
 
-## Should Leaders Abandon Any Hope of Reaching Equilibrium?
+## Forget About Reaching Equilibrium
 Equilibrium situations are not expected to be reached any time soon after external changes or disruptions occur in a business ecosystem. Rather, very often changes occur in cascade and their consequences are unpredictable. 
 
 For this reason, it would be better for transformational leaders to approach their transformational strategies from the paradigm of continuous change, which means assuming that the organization and its structure become malleable and are always prepared to address an endless number of micro changes that will take place continuously over time.
@@ -36,3 +36,5 @@ Only when transformational leaders become aware of the specific context in which
 Acting in these areas can be a source of inspiration to create innovative products and services, optimize key business processes, improve decision-making, and evolve to an agile culture that finally leads to a smart data-driven organization.
 
 See more in [Setting Up a Successful Business Transformation Strategy (II)](/posts/setting-up-a-seamless-business-transformation-strategy-II/)
+
+<p style= "font-size:10px;">Photo by <a href="https://www.nasa.gov/sites/default/files/thumbnails/image/artemis_i_launch_nhq202211160029.jpg" target="_blank">NASA</a></p>
