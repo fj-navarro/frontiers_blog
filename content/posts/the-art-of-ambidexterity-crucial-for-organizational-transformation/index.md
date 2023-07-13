@@ -25,7 +25,7 @@ What is the difference between exploitation and exploration modes?
 
 Both modes differ in terms of strategy, structure, processes, and culture, so organizations undergoing transformation must learn to find the right balance between the two, avoiding overweighting one mode over the other.
 
-#3 How to Approach Ambidexterity Effectively?
+## How to Approach Ambidexterity Effectively?
 There are many approaches to achieving ambidexterity in the firm that usually encompass different initiatives at various levels, these basically can be grouped into the following:
 
 - Cultural change initiatives.
