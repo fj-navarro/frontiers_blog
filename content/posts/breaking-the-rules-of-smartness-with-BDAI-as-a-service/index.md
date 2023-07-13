@@ -26,7 +26,7 @@ Unlike the license fee model where customers would pay high license fees up fron
 
 By storing all data and applications in a central hub, companies choosing BDAIaaS could avoid the high price of hard drive space and the need to purchase and maintain their own hardware. BDAI delivery time would also be much shorter, and the usual problems associated with heavy installations would be avoided. Furthermore, since companies may pay per user, it could possible to choose which employees would have access to BDAI capabilities rather than buying in bulk for the entire organization, thus making IT purchasing more flexible.
 
-## Benefits
+## Benefits of BDAIaaS
 BDAIaaS offers opportunities for organizations to rapidly process and analyze terabytes of data from widely dispersed sources and varied formats (e.g., text, images, etc.), making possible the flexible use of the capabilities provided by solution providers according to the specific needs of the firm. 
 
 Companies could have access to endless advanced BDAI capabilities that would always be up to date, through a pay-per-use model in which the company would be the one to decide which options to “activate” and which ones to “deactivate” according to their needs. BDAIaaS providers would be interested in providing their customers with a wide variety of options that meet their needs, each at a higher price.
