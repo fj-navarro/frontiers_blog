@@ -7,7 +7,7 @@ tags:
 - Management
 - Leadership
 ---
-Smart organizations are constantly changing, adapting their structures, resources, and objectives as they evolve to overcome the inertia that impedes change. Building a transformation strategy on top of the dynamic capabilities and [ambidexterity](/posts/the-art-of-ambidexterity-crucial-for-organizational-transformation/) of the company through the implementation of multiple simultaneous projects is an effective way to reduce risks and have better cost performance.
+Smart organizations are constantly changing, adapting their structures, resources, and objectives as they evolve to overcome the inertia that impedes change. Building a transformation strategy on top of the [dynamic capabilities](/posts/setting-up-a-seamless-business-transformation-strategy-ii/) and [ambidexterity](/posts/the-art-of-ambidexterity-crucial-for-organizational-transformation/) of the company through the implementation of multiple simultaneous projects is an effective way to reduce risks and have better cost performance.
 
 This is different from those organizations that perceive the need to transform as a result of episodic external events (or disruptions) that alter a previous equilibrium situation and that affect the internal structures of the organization, which must then be replaced by others.
 
