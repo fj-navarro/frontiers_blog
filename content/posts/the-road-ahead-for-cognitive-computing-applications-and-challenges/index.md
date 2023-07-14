@@ -7,9 +7,7 @@ image: images/before-and-after-computing.png
 tags:
 - Technologies
 ---
-
-The Road Ahead for Cognitive Computing Applications and Challenges
-Cognitive computing technologies are fundamentally different from all other forms of computing used so far. Cognitive systems continually learn from their interaction with data (structured and unstructured), contexts, and people, and thus improve their learning and reasoning capabilities over time. Similar to how human learning evolves from birth to adulthood, a cognitive system learns and becomes more intelligent over time from the information it gains each time it interacts with its environment and the experience it accumulates.
+**Cognitive computing technologies are fundamentally different from all other forms of computing used so far. Cognitive systems continually learn from their interaction with data (structured and unstructured), contexts, and people, and thus improve their learning and reasoning capabilities over time. Similar to how human learning evolves from birth to adulthood, a cognitive system learns and becomes more intelligent over time from the information it gains each time it interacts with its environment and the experience it accumulates.**
 
 This paradigm shift from rule-based computing to autonomous learning and reasoning is changing computing forever. With the advent of Big Data, cognitive computing promises to unlock a vast amount of knowledge now hidden under the rich and huge amount of data that tourism firms generate. 
 
