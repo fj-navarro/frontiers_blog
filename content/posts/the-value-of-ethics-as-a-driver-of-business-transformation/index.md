@@ -7,8 +7,7 @@ image: images/the-value-of-ethics.png
 tags:
 - Ethics
 ---
-
-The ethical considerations that arise from deep business transformation often go unnoticed by transformational leaders, not to say by the ICT industry. However, ethical behavior in business transformation (and in complex decision-making environments) plays an increasingly important role, since it can provide new perspectives to understand both the transformation processes themselves and the new organizational and social impacts that are emerging.
+**The ethical considerations that arise from deep business transformation often go unnoticed by transformational leaders, not to say by the ICT industry. However, ethical behavior in business transformation (and in complex decision-making environments) plays an increasingly important role, since it can provide new perspectives to understand both the transformation processes themselves and the new organizational and social impacts that are emerging.**
 
 The importance of ethics will become more apparent as business transformation becomes more and more data-driven, extends to an ever-increasing number of actors, and becomes deeper and irreversible for most organizations. How are fundamental values such as privacy, security, equality, transparency, and autonomy going to be affected in a smarter world dominated by Big Data? Should some data be a public good? Will consumers be bound to disclose personal data to some extent to make society safer and more efficient? Whatever the answers may be, transformational leaders will need to decide how ethical practices (e.g., ethical Big Data, ethical analytics, ethical AI) are implemented within the organization, and how they are to be communicated inside and outside the organization.
 

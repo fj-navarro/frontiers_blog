@@ -7,7 +7,7 @@ tags:
 - Management
 - Leadership
 ---
-(...)
+**(...)**
 
 ### Value offerings
 Smart technologies provide the ability for companies to create new value offerings from reviewing or expanding their existing portfolio of products and services. These new value offerings are determined by the organization’s ability to collect and analyze data on customers from their interactions with the products and services, as well as by incorporating increasingly innovative elements into them. 

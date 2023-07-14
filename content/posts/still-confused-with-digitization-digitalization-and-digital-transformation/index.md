@@ -9,7 +9,7 @@ tags:
 title: Still Confused with Digitization, Digitalization and Digital Transformation? 
 ---
 
-Being clear about the main concepts surrounding that of digitalization is no longer straightforward. The term has been so abused by so many people with so many different intentions that it has ceased to be useful for sharing ideas with each other, and shrouded in tons of dust and without substance.
+**Being clear about the main concepts surrounding that of digitalization is no longer straightforward. The term has been so abused by so many people with so many different intentions that it has ceased to be useful for sharing ideas with each other, and shrouded in tons of dust and without substance.**
 
 To make matters worse, the literature on digitalization and related disciplines does not help at all if we seek to clarify things. The production of knowledge around digitalization, with a fairly uneven and variable level of quality, let it be said, is simply gigantic and reflects the contribution of thousands of practitioners, consultants, technologists, and even public officials, who have contributed their own vision of the phenomenon in recent years, generally emphasizing those dimensions that most affected them.
 

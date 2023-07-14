@@ -8,7 +8,7 @@ tags:
 - Leadership
 ---
 
-In the new era of data and smart technologies, the consumer is king when companies must decide on new technologies and business transformation. In these new times, the tangible resources (including the tangible products) on which the fundamental competitive capabilities of businesses were based are beginning to lose relevance in favor of the intangible assets and services delivered by the organization. Furthermore, the ability of organizations to open up to the outside world and interact with other players in multiple business ecosystems becomes critical.
+**In the new era of data and smart technologies, the consumer is king when companies must decide on new technologies and business transformation. In these new times, the tangible resources (including the tangible products) on which the fundamental competitive capabilities of businesses were based are beginning to lose relevance in favor of the intangible assets and services delivered by the organization. Furthermore, the ability of organizations to open up to the outside world and interact with other players in multiple business ecosystems becomes critical.**
 
 The new rules of the game that are constantly emerging are having a strong impact on the way in which value networks are configured, which are becoming more and more extensive and complex. The ultimate consequence is that companies have to operate in a much more turbulent, uncertain and hyper-competitive environment.
 

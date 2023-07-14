@@ -12,7 +12,7 @@ tags:
 - Management
 ---
 
-Addressing business transformation involves developing capabilities to quickly adapt to predictable and unpredictable environmental changes and create and capture new value. Events such as the appearance of new technologies and disruptive/innovative business models, the shortening of product life cycles, and a more dynamic competitive landscape require new strategic responses from business firms. 
+**Addressing business transformation involves developing capabilities to quickly adapt to predictable and unpredictable environmental changes and create and capture new value. Events such as the appearance of new technologies and disruptive/innovative business models, the shortening of product life cycles, and a more dynamic competitive landscape require new strategic responses from business organizations.**
 
 Those organizations that take a step forward and commit themselves to deep business transformation do so by adopting different combinations of information technologies, processes, and resources that end up impacting the entire organization and leading to profound changes in its structure, culture, and behavior.
 

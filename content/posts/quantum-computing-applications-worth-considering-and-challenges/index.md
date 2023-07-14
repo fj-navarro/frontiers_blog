@@ -8,7 +8,9 @@ tags:
 - Technologies
 ---
 
-The idea of quantum computing arose from the reflection made by scientists about the fundamental limits of computing. What they surmised is that if technology continued to comply with Moore’s Law (which states that the number of transistors in a microprocessor doubles approximately every 2 years), then the shrinking size of the circuits within a silicon chip would eventually reach a point where individual elements would not exceed the size of a few atoms. Consequently, the physical laws that would govern the properties and behavior of circuits on a subatomic scale would no longer be the classical ones but rather quantum mechanics. This gave rise to the possibility of creating a computer based on the principles of quantum physics.
+**The idea of quantum computing arose from the reflection made by scientists about the fundamental limits of computing. What they surmised is that if technology continued to comply with Moore’s Law (which states that the number of transistors in a microprocessor doubles approximately every 2 years), then the shrinking size of the circuits within a silicon chip would eventually reach a point where individual elements would not exceed the size of a few atoms.**
+
+Consequently, the physical laws that would govern the properties and behavior of circuits on a subatomic scale would no longer be the classical ones but rather quantum mechanics. This gave rise to the possibility of creating a computer based on the principles of quantum physics.
 
 Feynman was one of the first to tackle this challenge in 1982 by creating an abstract model showing how a quantum system could be used to do calculations. The model explained how a machine could have the ability to perform quantum physics experiments inside a quantum mechanical computer. Later, in 1985, Deutsch proposed the possibility that a quantum computer could be general purpose and published a theoretical paper that went on to show how a quantum computer could have capabilities far beyond those of a traditional classical computer. After Deutsch published that article, the quest began to find practical applications for such a machine.
 

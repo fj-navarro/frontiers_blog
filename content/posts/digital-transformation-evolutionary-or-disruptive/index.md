@@ -13,7 +13,9 @@ tags:
 - Digitalization
 ---
 
-The idea of "digital transformation" refers to a process of profound and evolutionary change that affects all aspects of an organization, led by digital capabilities and technologies aimed at creating value. The fact that digital transformation is an evolutionary process indicates that the phenomenon of transformation is continuous; that is, it is maintained over time. Some authors, however, argue that digital transformation involves more radical or disruptive change than simply an evolutionary process. This is a challenging academic discussion that has been going on for a long time in which this author does not take sides because, in the end, both streams of thought are adequate lenses to tackle digital transformation.
+**The idea of "digital transformation" refers to a process of profound and evolutionary change that affects all aspects of an organization, led by digital capabilities and technologies aimed at creating value.**
+
+The fact that digital transformation is an evolutionary process indicates that the phenomenon of transformation is continuous; that is, it is maintained over time. Some authors, however, argue that digital transformation involves more radical or disruptive change than simply an evolutionary process. This is a challenging academic discussion that has been going on for a long time in which this author does not take sides because, in the end, both streams of thought are adequate lenses to tackle digital transformation.
 
 The idea of an evolutionary process accurately describes what happens most of the time in the digital transformation of organizations in real life, although it is also true that firms must be prepared for disruptions in their routine activities and business processes when faced with digital transformation. Let's try to understand how and why.
 

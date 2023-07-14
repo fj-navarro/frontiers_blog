@@ -9,7 +9,9 @@ tags:
 - Leadership
 ---
 
-Business transformation is best managed when there are smart leaders who recognize the needs of the organization and are willing to guide it on the right direction. Smart leadership is a critical capability that companies need in order to address all the transformational changes required to build a data-driven culture in the organization. Furthermore, leadership is a critical competency to embrace Big Data throughout the organization and bring the benefits of data science to fruition.
+**Business transformation is best managed when there are smart leaders who recognize the needs of the organization and are willing to guide it on the right direction.**
+
+Smart leadership is a critical capability that companies need in order to address all the transformational changes required to build a data-driven culture in the organization. Furthermore, leadership is a critical competency to embrace Big Data throughout the organization and bring the benefits of data science to fruition.
 
 Paradoxically, as companies increase their reliance on data and algorithms for decision-making and the automation of routine, information-intensive tasks increases, so does the importance of interpersonal leadership skills between smart transformational leaders. Companies that pursue deep transformation need good leaders with a vision not only to improve some processes and make them work more efficiently, but to profoundly transform the organization around three key areas: customer experience, operational processes, and new business models. 
 
