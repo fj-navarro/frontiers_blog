@@ -1,8 +1,8 @@
 ---
-title: A New Leadership for the Future of Business Transformation
+title: New Leadership for Business Transformation
 date: "2023-07-12"
 description: Business transformation is best managed when there are smart leaders who recognize the needs of the organization and are willing to guide it on the right direction. Smart leadership is a critical capability that companies must put into practice when they set out to build a data-driven culture in the organization.
-image: images/a-new-leadership.jpg
+image: images/a-new-leadership.png
 share: true
 tags:
 - Management

@@ -6,7 +6,7 @@ imageAltAttribute: The Conceptual Journey of Digitalization
 tags:
 - Basics of Transformation
 - Digitalization
-title: Still Confused with the Differences between Digitization, Digitalization and Digital Transformation? 
+title: Still Confused with Digitization, Digitalization and Digital Transformation? 
 ---
 
 Being clear about the main concepts surrounding that of digitalization is no longer straightforward. The term has been so abused by so many people with so many different intentions that it has ceased to be useful for sharing ideas with each other, and shrouded in tons of dust and without substance.
