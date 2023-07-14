@@ -1,5 +1,6 @@
 ---
 image: images/about.png
+share: true
 menu:
   main:
     name: About
