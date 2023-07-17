@@ -1,14 +1,13 @@
 ---
 title: Fundamental Agile Practices for Data-driven Projects
-description: Companies willing to move towards data-driven management should start to think about improving their agility, which means having a good understanding of what an Agile framework is about and choosing which Agile practices and methodologies are best suited to implement in their data projects.
+description: Companies willing to move towards data-driven management should start to think about improving their agility, which means having a good understanding of what an Agile framework is about and choosing which Agile practices and methodologies are best suited to be implemented in their data projects.
 date: "2023-07-17"
 imageAltAttribute: Agile Practices for Data-Driven Projects
 image: images/fundamental-agile-practices.jpg
 tags:
-- Technology
 - Governance
 ---
-**Companies willing to move towards data-driven management should start to think about improving their agility, which means having a good understanding of what an Agile framework is about and choosing which Agile practices and methodologies are best suited to implement in their data projects.**
+**Companies willing to move towards data-driven management should start to think about improving their agility, which means having a good understanding of what an Agile framework is about and choosing which Agile practices and methodologies are best suited to be implemented in their data projects.**
 
 Indeed, one major stumbling block for the adoption of an Agile framework in data-driven projects is the sometimes ill-informed choice of suitable tools and techniques that are valuable to teams. So, **what Agile practices can be applied to data-driven projects to effectively improve the organization’s business performance?**
 
