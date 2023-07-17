@@ -3,8 +3,8 @@ description: Welcome to FiBT
 title: Frontiers in Business Transformation
 ---
 
-<p>FiBT aims to become a participatory research project that accommodates the visions and contributions of relevant actors in the field of business transformation from academia, the executive management of organizations, and the IT and consulting industry. It is expected that the contributions obtained through collaborative work will allow the results to be published regularly in videos, posts, and reports.</p>
+FiBT offers insights from combined academic and professional research on the most relevant sources in the field of business transformation. Our insights are intended to serve the community of transformational leaders as reference knowledge base for better decision-making in their change initiatives.
 
-<p>This initiative is fully independent and unrelated to the interests of any third party, and does not receive funds of any kind from the entities mentioned on the site. The site and its contents are the entire responsibility of the editor, who provides the resources for its maintenance..</p>
+FiBT is a fully independent initiative alien to the interests of any third party, and does not receive funding of any kind from the entities mentioned on the site, beyond the resources that the Editor provides for its maintenance. The site and its contents are the sole responsibility of the author/s.
 
-<p> > Start your journey <a href="/posts">here</a></p>
+> Start your journey [here](/posts)

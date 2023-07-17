@@ -14,7 +14,7 @@ FrontiersInBusinessTransformation (FiBT) has been created thinking about the nee
 
 FiBT offers insights that are the result of independent research on the most relevant academic, professional and industry sources of knowledge. The research methods used include qualitative and quantitative techniques applied to data made available from relevant sources, as well as the generation of new data from participatory research processes.
 
-> Independent research that uniquely combines academic and professional rigor and is action-oriented, ready to be used by transformational leaders
+> FiBT delivers independent insights that uniquely combine academic and industry rigor and is action-oriented, ready to be used by transformational leaders
 
 FiBT covers in a comprehensive and integrated way the fundamental perspectives that every transformational leader should consider to be successful when addressing change initiatives in their organization. In this way, FiBT tries to overcome the biased vision towards technology that prevails in transformation forums, providing a multi-prism vision that offers a more realistic vision of business transformation processes.
 
