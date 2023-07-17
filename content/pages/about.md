@@ -9,23 +9,16 @@ title: About
 url: about
 ---
 
-## Contra vagos
+## Insights for Transformational Leaders
+FrontiersInBusinessTransformation (FiBT) has been created thinking about the needs for updated and incisive knowledge that transformational leaders have to keep their organizations ahead and make them more competitive every day.
 
-Lorem _markdownum notam si_ lintea meque certa [en meumque
-illis](#cohibentem-iuvenaliter), diu fatigant, nec praedae concustodita arcet.
-[Paviunt castris](#nemorisque-urimur-violentus) cur errat ventis causa! Silvas
-sine satis vocat praedam moverat, precor, non sola bovis neque mihi. Primum
-utilis nympham, et certus amplexas Deiphobum palmis credas ambo, nec.
+FiBT offers insights that are the result of independent research carried out by the Editor, uniquely combining academic and professional knowledge with a clear action-focused orientation.
 
-> Excidit gente, si orat suo quaeque dura Calydon nata? Pars auro post stetit
-> adfusique imis amplexus. Agmina per fabricator
-> mittere Erymanthon habetque tot.
+> Independent research
+> Unique combination of academic and professional rigor
+> Action-oriented knowledge
 
-**Cineres Nile ipsa** origine discurrunt adest Unde, et quem clausus, imo,
-virens quoque tales, potuit. Ingentes insilit corpore nutricis praebebat roganti
-licuit. Denique a vestros adulantum in bella lina parte et arte generi di igitur
-quis, digitis pedes. Cum resonant tamen, namque in anxia. Non nostri trahens
-ancora.
+FiBT covers in a comprehensive and integrated way the fundamental perspectives that every transformational leader must consider when addressing change initiatives in their organization. In this way, FiBT tries to overcome the biased vision towards technology that prevails in business transformation forums, providing a multi-prism vision that offers a more realistic vision of business transformation processes.
 
 ## About the Editor
 
