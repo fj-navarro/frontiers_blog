@@ -4,8 +4,7 @@ description: Being clear about the main concepts surrounding that of digitalizat
 image: images/still-confused.png
 imageAltAttribute: The Conceptual Journey of Digitalization
 tags:
-- Basics of Transformation
-- Digitalization
+- Basics
 title: Still Confused with Digitization, Digitalization and Digital Transformation? 
 ---
 

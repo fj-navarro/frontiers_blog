@@ -9,8 +9,7 @@ date: "2023-05-10"
 imageAltAttribute: Digital Transformation, Evolutionary or Disruptive?
 image: images/digital-transformation-evolutionary.png
 tags:
-- Basics of Transformation
-- Digitalization
+- Basics
 ---
 
 **The idea of "digital transformation" refers to a process of profound and evolutionary change that affects all aspects of an organization, led by digital capabilities and technologies aimed at creating value. The fact that digital transformation is an evolutionary process indicates that the phenomenon of transformation is continuous; that is, it is maintained over time.**

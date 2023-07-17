@@ -27,26 +27,10 @@ licuit. Denique a vestros adulantum in bella lina parte et arte generi di igitur
 quis, digitis pedes. Cum resonant tamen, namque in anxia. Non nostri trahens
 ancora.
 
-## Ducem oculos pallor tale quoque
+## About the Editor
 
-Pectora de Hebe veste mansit nemorisque oppugnare deos, interea eo calescit
-**invita insidiae** Amymonen, semper respiciens vocato, illis! Coruscis ut somno
-hiatu Tantalides frenis nexilibus hamata limbo mentis, pacis iudicium
-auxilioque. Genus dolori, me ira hae inpediunt tellus, nascendi Boreas!
-Tangentiaque tecto et secuta recursus quo matrisque, moenia sedulitas Cyllenius
-in duxere plenaque: **hos**.
+[Dr. Francisco J. Navarro-Meneses](https://www.linkedin.com/in/navarrofj/) is a senior Lecturer and Researcher at the Faculty of Economics and Business of Universidad Antonio de Nebrija (Madrid, Spain), where he is Director of the Graduate Programs in Tourism Management.
 
-1. Olim pulvere
-2. Verus ego ovantem mihi
-3. Tenuit erat semina superari
-4. Dabis natis hoc genu in quidem dumque
+His current research focuses on the study of value creation in organizations and the transformation processes arising from the impact of smart technologies and the development of a data-driven culture. Dr. Navarro-Meneses is also an active member of research groups focused on service innovation and complex social systems modeling at various research institutions. 
 
-Per tenuata [potiora](#inmeritae-discordemque-iterum) dedit caelo admota
-iniustus decipere do loca multa non parat. Ingratos his ut inde credite sensit
-sorte. Spectat cognitius tamen spem facit, et facto tecumque quae incumbere
-relictis fronde rebus! Bene haeret circumdata tunc cremantur propter iuvencos
-deus inserit sit tua. Pompa non precor procumbit inania lacrimas sacra credetis:
-Oceano, femina?
-
-Bacchantum neque. Humum ut violasse quam inmotos! Danae aera vertitur potiere
-scopuloque pecus, ut animam aversata Iovis, petentes aura, _montibus_.
+Prior to joining the academia, Dr. Navarro-Meneses developed his professional career as an international business consultant, an industry in which he has twenty years of experience in positions of responsibility both in Big Four firms and in his own. His areas of expertise include business transformation, innovation management, and corporate strategic change. He has also been a founder and CEO of start-up companies in the technology, e-commerce, engineering, tourism, and aviation industries.
