@@ -12,13 +12,11 @@ url: about
 ## Insights for Transformational Leaders
 FrontiersInBusinessTransformation (FiBT) has been created thinking about the needs for updated and incisive knowledge that transformational leaders have to keep their organizations ahead and make them more competitive every day.
 
-FiBT offers insights that are the result of independent research carried out by the Editor, uniquely combining academic and professional knowledge with a clear action-focused orientation.
+FiBT offers insights that are the result of independent research on the most relevant academic, professional and industry sources of knowledge. The research methods used include qualitative and quantitative techniques applied to data made available from relevant sources, as well as the generation of new data from participatory research processes.
 
-> Independent research
-> Unique combination of academic and professional rigor
-> Action-oriented knowledge
+> Independent research that uniquely combines academic and professional rigor and is action-oriented, ready to be used by transformational leaders
 
-FiBT covers in a comprehensive and integrated way the fundamental perspectives that every transformational leader must consider when addressing change initiatives in their organization. In this way, FiBT tries to overcome the biased vision towards technology that prevails in business transformation forums, providing a multi-prism vision that offers a more realistic vision of business transformation processes.
+FiBT covers in a comprehensive and integrated way the fundamental perspectives that every transformational leader should consider to be successful when addressing change initiatives in their organization. In this way, FiBT tries to overcome the biased vision towards technology that prevails in transformation forums, providing a multi-prism vision that offers a more realistic vision of business transformation processes.
 
 ## About the Editor
 
