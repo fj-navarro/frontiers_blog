@@ -5,7 +5,7 @@ date: "2023-07-05"
 imageAltAttribute: BDAI as-a-Service
 image: images/BDAI-as-a-service.jpg
 tags:
-- Technologies
+- Technology
 - Governance
 ---
 

@@ -5,7 +5,7 @@ date: "2023-06-21"
 imageAltAttribute: Cognitive Systems
 image: images/before-and-after-computing.png
 tags:
-- Technologies
+- Technology
 ---
 **Cognitive computing technologies are fundamentally different from all other forms of computing used so far. Cognitive systems continually learn from their interaction with data (structured and unstructured), contexts, and people, and thus improve their learning and reasoning capabilities over time. Similar to how human learning evolves from birth to adulthood, a cognitive system learns and becomes more intelligent over time from the information it gains each time it interacts with its environment and the experience it accumulates.**
 

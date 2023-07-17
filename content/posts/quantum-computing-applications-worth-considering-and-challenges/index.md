@@ -5,7 +5,7 @@ date: "2023-06-14"
 imageAltAttribute: Quantum Computing Applications
 image: images/quantum-computing-applications.png
 tags:
-- Technologies
+- Technology
 ---
 
 **The idea of quantum computing arose from the reflection made by scientists about the fundamental limits of computing. What they surmised is that if technology continued to comply with Moore’s Law (which states that the number of transistors in a microprocessor doubles approximately every 2 years), then the shrinking size of the circuits within a silicon chip would eventually reach a point where individual elements would not exceed the size of a few atoms.**
