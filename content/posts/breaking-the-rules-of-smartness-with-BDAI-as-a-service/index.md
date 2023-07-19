@@ -8,7 +8,6 @@ tags:
 - Technology
 - Governance
 ---
-
 **The combination of Big Data, analytics, and AI (BDAI) is going to generate great business opportunities and competitive advantages for companies around the world.Through the integration and interoperability of these technologies, companies are going to be able to transform their operations and business model and, in the medium and long term, obtain significant gains in efficiency and productivity.**
 
 It can be expected that the inclusion of BDAI in the culture of people will better prepare organizations to open new markets and explore (and exploit) new niches in existing markets, will allow the creation of new value offerings focused on the experiential component and personalization, and, ultimately, will contribute significantly to boosting growth.
