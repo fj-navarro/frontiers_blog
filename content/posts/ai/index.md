@@ -1,5 +1,5 @@
 ---
-title: How many types of AI are there and what are they for?
+title: How Many Types of AI Are There and What Are They For?
 description: The  
 date: "2023-04-19"
 imageAltAttribute: How many types of AI are there and what are they for?
