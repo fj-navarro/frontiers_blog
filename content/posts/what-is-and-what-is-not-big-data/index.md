@@ -1,6 +1,6 @@
 ---
-title: Breaking the Rules of Smartness with BDAI as-a-Service
-description: The combination of Big Data, analytics, and AI (BDAI) is going to generate great business opportunities and competitive advantages for companies around the world. Through the integration and interoperability of these technologies, companies are going to be able to transform their operations and business model and, in the medium and long term, obtain significant gains in efficiency and productivity.
+title: What Is and What Is Not Big Data?
+description: It is not easy to define what Big Data is, or to draw a clear dividing line between what is “big” and “small” data. This difficulty is reflected in the number and variety of conceptualizations that can be found about Big Data in the literature. In this article we review some of the main views that can help transformational leaders to be clear about it.
 date: "2023-04-26"
 imageAltAttribute: What is Big Data? 
 image: images/what-is-big-data.png
