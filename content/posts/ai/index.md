@@ -29,7 +29,7 @@ It is that AI with limited learning and adaptation abilities and that can only b
 It is more powerful than weak AI and is focused on more complex tasks that involve the processing and learning of Big Data. Therefore, it is an AI very close to human intelligence and can even surpass it in some specific fields.
 #### Artificial superintelligence
 It is the self-aware AI, i.e., the AI that performs better than humans in all areas. For now, this AI is more science fiction than reality, but it seems that it is the way we are heading.
----
+___
 Another very popular classification of AI is the one proposed by IBM, which differentiates four types of AI according to the degree of human intervention and the type of systems in which the AI runs:
 #### Assisted intelligence
 It is AI based on systems preprogrammed by humans that do not have the ability to learn from their interactions with the environment in which they operate. This type of AI can perform routine and repetitive tasks at high speed and is therefore good at helping humans perform certain tasks in a more agile and efficient manner.
