@@ -11,7 +11,7 @@ tags:
 
 Most frequently, AI is associated with the ability of a machine to sense its environment, learn from experience, make decisions based on input and goals, and ultimately perform human-like tasks. With the swift progress made by Big Data technologies and the ever-increasing capacity of computer storage and lightning-fast speed of data processing machines, AI is being revitalized. 
 
-Considering those advances AI could also be defined as “the ability (of a computer system) to correctly interpret external data, learn from such data, and use those learnings to achieve specific goals and tasks through flexible adaptation” (Kaplan & Haenlein, 2019). These “intelligent” systems use all kinds of algorithms and machine learning techniques to learn from data and make decisions aimed at achieving specific goals.
+Considering those advances AI could also be defined as *“the ability (of a computer system) to correctly interpret external data, learn from such data, and use those learnings to achieve specific goals and tasks through flexible adaptation”* (Kaplan & Haenlein). These “intelligent” systems use all kinds of algorithms and machine learning techniques to learn from data and make decisions aimed at achieving specific goals.
 
 ## The Impact of AI on Organizations
 After many years of promising expectations, AI is gaining momentum in business organizations all around the world and applications extend to a wide-ranging variety of fields and contexts: from image recognition, video surveillance, telemedicine, robots, autonomous vehicles, and social media websites, to voice recognition, machine translations, online games, autonomous planning and programming, spam filters, weather forecasts, etc. 
