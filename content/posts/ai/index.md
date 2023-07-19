@@ -23,13 +23,13 @@ There is no doubt that AI has enormous potential, and that computers and robots 
 Be that as it may, everything indicates that AI is going to bring great changes to our daily lives and society in general. The impact of AI on business and employment is expected to be massive, resulting in highly interconnected organizations whose decision-making will be based on analytics and autonomous exploitation of Big Data to cope with increasingly intense global competition.
 ## Types of Artificial Intelligence
 There are three main types of AI according to the literature on the subject:
-- **Narrow artificial intelligence (also known as weak AI)** 
+#### Narrow artificial intelligence (also known as weak AI)
 It is that AI with limited learning and adaptation abilities and that can only be used in routine and/or repetitive tasks. Narrow AI is applied in very specific fields where AI is better and works faster than humans (e.g., to identify tumors, play chess games, play a videogame). This type of AI represents the current stage of AI development.
-- **Artificial general intelligence (known as strong AI)**
+#### Artificial general intelligence (known as strong AI)
 It is more powerful than weak AI and is focused on more complex tasks that involve the processing and learning of Big Data. Therefore, it is an AI very close to human intelligence and can even surpass it in some specific fields.
-- **Artificial superintelligence**
+#### Artificial superintelligence
 It is the self-aware AI, i.e., the AI that performs better than humans in all areas. For now, this AI is more science fiction than reality, but it seems that it is the way we are heading.
-
+---
 Another very popular classification of AI is the one proposed by IBM, which differentiates four types of AI according to the degree of human intervention and the type of systems in which the AI runs:
 #### Assisted intelligence
 It is AI based on systems preprogrammed by humans that do not have the ability to learn from their interactions with the environment in which they operate. This type of AI can perform routine and repetitive tasks at high speed and is therefore good at helping humans perform certain tasks in a more agile and efficient manner.
