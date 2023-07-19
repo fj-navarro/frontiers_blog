@@ -1,13 +1,13 @@
 ---
 title: How Many Types of AI Are There and What Are They For?
-description: The  
+description: The term artificial intelligence (AI) was first introduced in the 1950s as a branch of computer science concerned with the automation of intelligent behavior. Since then, AI and its associated techniques have developed rapidly to the point that today not only is there still no fully accepted definition of what AI is, but there are various conceptions of it.
 date: "2023-04-19"
 imageAltAttribute: How many types of AI are there and what are they for?
 image: images/types-of-ai.png
 tags:
 - Basics
 ---
-**The term artificial intelligence (AI) was first introduced in the 1950s as a branch of computer science concerned with the automation of intelligent behavior. Since then, AI and its associated techniques have developed rapidly to the point that today there is still no fully accepted definition of what AI is.**
+**The term artificial intelligence (AI) was first introduced in the 1950s as a branch of computer science concerned with the automation of intelligent behavior. Since then, AI and its associated techniques have developed rapidly to the point that today not only is there still no fully accepted definition of what AI is, but there are various conceptions of it.**
 
 Most frequently, AI is associated with the ability of a machine to sense its environment, learn from experience, make decisions based on input and goals, and ultimately perform human-like tasks. With the swift progress made by Big Data technologies and the ever-increasing capacity of computer storage and lightning-fast speed of data processing machines, AI is being revitalized. 
 
