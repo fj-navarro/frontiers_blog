@@ -1,5 +1,5 @@
 ---
-title: The New Leadership Organizations Need to Address Transformation
+title: The New Leadership that Business Transformation Demands
 date: "2023-07-12"
 description: Business transformation is best managed when there are smart leaders who recognize the needs of the organization and are willing to guide it on the right direction. Smart leadership is a critical capability that companies must put into practice when they set out to build a data-driven culture in the organization.
 image: images/a-new-leadership.png
