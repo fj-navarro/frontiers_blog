@@ -6,6 +6,7 @@ image: images/setting-up-successful.jpg
 tags:
 - Management
 - Leadership
+- Strategy
 ---
 **Smart organizations are constantly changing, adapting their structures, resources, and objectives as they evolve to overcome the inertia that impedes change. Building a transformation strategy on top of the [dynamic capabilities](/posts/tackling-smart-transformation-by-developing-dynamic-capabilities/) and [ambidexterity](/posts/the-art-of-ambidexterity-crucial-for-organizational-transformation/) of the organization, and through the implementation of multiple simultaneous projects is an effective way to reduce risks and have better cost performance.**
 
