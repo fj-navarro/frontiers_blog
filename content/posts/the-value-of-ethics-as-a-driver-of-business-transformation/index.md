@@ -11,7 +11,11 @@ tags:
 
 However, ethical behavior in business transformation, as in other complex decision-making environments, plays a fundamental role in achieving the expected results and establishing solid foundations on which to build a robust and smooth transformation.
 
-Through proper examination of the ethical considerations that arise from transformation, transformational leaders can gain new perspectives to understand both the transformation processes themselves and the new organizational and societal impacts that are emerging.
+Through proper examination of the ethical considerations that arise from transformation, transformational leaders can gain new perspectives to understand both the transformation processes themselves and the new organizational and societal impacts that are emerging (Fig.1)
+
+<img src="index_files/the-value-of-ethics-1.png" alt="Ethical responsibility"/>
+
+Fig.1 Ethical responsibility within the framework of business transformation (Source: own elaboration)
 
 ## Ethics in the Era of Data
 The importance of ethics becomes more apparent as business transformation becomes more and more data-driven, extends to an ever-increasing number of actors, and becomes deeper and irreversible for most organizations.
