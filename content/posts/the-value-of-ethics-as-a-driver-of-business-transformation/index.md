@@ -88,6 +88,6 @@ If transformational leaders don't commit the necessary attention and resources t
 
 Ethics cannot be a matter of trial and error to find the broadest possible limits to impose a particular business vision regardless of customers, people and stakeholders, but rather it must be originally incorporated into the transformation plans of organizations by design, putting first the vision of customers, people, and stakeholders. 
 
-If you as a trasformational leader think about sustaining results in the long term, this is the right way to go.
+If you transformational leader think about sustaining results in the long term, this is the right way to go.
 
 <p style= "font-size:10px;">Photo by <a href="https://www.freepik.es/foto-gratis/naturaleza-muerta-que-ilustra-concepto-etica_26407570.htm#page=2&query=ethics&position=49&from_view=search&track=sph" target="_blank">Freepik</a></p>
