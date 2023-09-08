@@ -23,7 +23,7 @@ While academics and practitioners generally assume that digitalization impacts a
 
 One of the main challenges is that there is no reconciled definition of the core elements that make up digitalization. In fact, many studies see digitalization and digital transformation as entirely different things: for some authors they involve only a slight change enabled by technologies (i.e., when a new enterprise resource planning system (ERP) is implemented in a department of a company); for others it means the impact that technology has in the strategy or business model of an organization; while for others it implies a more profound and evolutionary approach that develops over time.
 
-> Many of the terms that articulate business transformation currently lack a shared meaning among the community of transformational leaders
+> Many of the terms that articulate business transformation currently lack a shared understanding among the community of transformational leaders
 
 It is also quite worrying that there are several key related terms, such as digitization and digitalization, whose differences are often unclear and which add even more confusion and ambiguity when transformational leaders use them as part of their organizations' transformation processes and decision making. So, let's look at the main differences between these terms to clarify them once and for all.
 
