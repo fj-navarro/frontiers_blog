@@ -5,7 +5,7 @@ image: images/still-confused.png
 imageAltAttribute: The Conceptual Journey of Digitalization
 tags:
 - Basics
-title: Still confused with digitalization vs transformation?
+title: Still Confused with Digitalization vs Transformation?
 
 ---
 
