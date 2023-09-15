@@ -1,13 +1,12 @@
 ---
 title: Agile Best Practices for Transformational Leaders
-description: Companies willing to move towards data-driven management should start to think about improving their agility, which means having a good understanding of what an Agile framework is about and choosing which Agile practices and methodologies are best suited to be implemented in their data projects.
+description: Transformational leaders committed to moving towards smart, data-driven management should start thinking about how they can improve their organization's agility, which means first having a good understanding of what an agile framework is about and choosing which practices and methodologies are best suited to implement in each transformation initiative.
 date: "2023-07-17"
 imageAltAttribute: Agile Best Practices for Transformational Leaders
 image: images/fundamental-agile-practices.jpg
 tags:
 - Governance
 ---
-
 **Transformational leaders committed to moving towards smart, data-driven management should start thinking about how they can improve their organization's agility, which means first having a good understanding of what an agile framework is about and choosing which practices and methodologies are best suited to implement in each transformation initiative.**
 
 Not surprisingly, one of the main obstacles to adopting an agile framework to support business transformation is the often misinformed choice of the tools and techniques that are most valuable to teams.
