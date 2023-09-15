@@ -1,5 +1,5 @@
 ---
-title: Fundamental Agile Practices for Data-driven Projects
+title: Agile Best Practices for Transformational Leaders
 description: Companies willing to move towards data-driven management should start to think about improving their agility, which means having a good understanding of what an Agile framework is about and choosing which Agile practices and methodologies are best suited to be implemented in their data projects.
 date: "2023-07-17"
 imageAltAttribute: Agile Best Practices for Transformational Leaders
