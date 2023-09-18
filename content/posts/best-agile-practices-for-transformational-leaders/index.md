@@ -16,7 +16,7 @@ So, this article attempts to answer the following key question that every transf
 
 Let's take as a starting point the examination of the different Agile techniques that can contribute the most and best to business transformation and how they differ from traditional methods ([Figure 1](#agile)).
 
-<img src="index_files/best-agile-practices.png" alt="Best Agile Practices" id="agile"/>
+<img src="index_files/best-agile-practices-1.png" alt="Best Agile Practices" id="agile"/>
 
 Figure 1: Best Agile practices for transformational leaders 
 
