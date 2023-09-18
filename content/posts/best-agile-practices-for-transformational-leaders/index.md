@@ -3,7 +3,7 @@ title: Best Agile Practices for Transformational Leaders
 description: Transformational leaders committed to moving towards smart, data-driven management should start thinking about how they can improve their organization's agility, which means first having a good understanding of what an agile framework is about and choosing which practices and methodologies are best suited to implement in each transformation initiative.
 date: "2023-07-17"
 imageAltAttribute: Best Agile Practices for Transformational Leaders
-image: images/fundamental-agile-practices.jpg
+image: images/best-agile-practices.jpg
 tags:
 - Governance
 ---
@@ -14,9 +14,13 @@ Not surprisingly, one of the main obstacles to adopting an Agile framework and s
 
 So, this article attempts to answer the following key question that every transformational leader will need to address at some point: What Agile practices are best suited to effectively improve the organization's business performance in a context of smart business transformation?
 
-Let's take as a starting point the examination of the different Agile techniques that can contribute the most and best to business transformation and how they differ from traditional methods.
+Let's take as a starting point the examination of the different Agile techniques that can contribute the most and best to business transformation and how they differ from traditional methods ([Figure 1](#agile)).
 
-> One of the main obstacles to adopting an Agile framework is the often misinformed choice of the tools and techniques that are most valuable to teams.
+<img src="index_files/best-agile-practices.png" alt="Best Agile Practices" id="agile"/>
+
+Figure 1: Best Agile practices for transformational leaders 
+
+Source: Own elaboration
 
 ## Transformation by Incremental Steps
 
@@ -24,11 +28,13 @@ The development philosophy of every Agile project, like that of a business trans
 
 The iterative and continuously evolving development cycles of the Agile philosophy replace the traditional waterfall style by prioritizing the development of those requirements that the user values most. This allows the team responsible for business transformation to continually adapt the development tasks as the client or user provides feedback to the team.
 
+> One of the main obstacles to adopting an Agile framework is the often misinformed choice of the tools and techniques that are most valuable to teams.
+
 Through each iteration, the team incorporates incremental improvements into the final transformation product that are quickly made available to the client/user for feedback. These iterations generally last 2 to 4 weeks, although the final time depends on the nature of the tasks involved.
 
 Through short and rapid cycles, the transformational leader can ensure selective and effective progress in the development of a transformation initiative.
 
-## Collaboration and Self-management
+## Team Collaboration and Self-management
 
 Business transformation projects based on Agile principles activate mechanisms that promote strong collaboration between team members, as well as between team members and the customer/end user.
 
@@ -60,7 +66,7 @@ Any change in the conditions established in the contract is considered negative 
 
 Change becomes the rule, not the exception, as the objectives and results pursued by business transformation initiatives constantly change. Therefore, being prepared to respond to changing conditions is an essential attitude that transformational leaders must develop through contracts that are properly aligned.
 
-## Collaboration and Communication
+## Stakeholder Collaboration and Communication
 
 While most contracts typically address expectations of collaboration between the various stakeholders in a transformation initiative, it is difficult to foresee all the requirements that will need to be met to successfully complete a transformation initiative at the time of signing.
 
