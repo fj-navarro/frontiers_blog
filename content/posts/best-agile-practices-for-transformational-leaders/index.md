@@ -12,7 +12,7 @@ tags:
 
 Not surprisingly, one of the main obstacles to adopting an Agile framework and speeding up business transformation is the often misinformed choice of the tools and techniques that are most valuable to teams.
 
-So, this article attempts to answer the following key question that every transformational leader will need to address at some point: What Agile practices are best suited to effectively improve the organization's business performance in a context of smart business transformation?
+So, this article attempts to answer the following key question that every transformational leader will need to address at some point: **What Agile practices are best suited to effectively improve the organization's business performance in a context of smart business transformation?**
 
 Let's take as a starting point the examination of the different Agile techniques that can contribute the most and best to business transformation and how they differ from traditional methods ([Figure 1](#agile)).
 
