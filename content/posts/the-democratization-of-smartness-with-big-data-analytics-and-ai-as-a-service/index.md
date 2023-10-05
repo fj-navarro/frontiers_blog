@@ -23,7 +23,7 @@ The development of BDAIaaS is expected to democratize organizations' access to i
 
 Ultimately, BDAIaaS will enable the creation of new, increasingly personalized customer-centric value offerings, thus contributing to the growth of organizations.
 
-## How it works
+## How It Works
 
 BDAIaaS is an approach to provide companies with access to the infrastructure, hardware, and software necessary for Big Data, Analytics, and AI capabilities.
 Through this model of IT access and use, companies can accelerate the pace of business transformation and adoption of smart technologies, rather than keeping it slow or dying.
