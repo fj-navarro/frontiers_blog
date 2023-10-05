@@ -1,7 +1,7 @@
 ---
 title: How to Adopt Open Innovation with Agility for Business Transformation
 date: "2023-10-02"
-description: Business transformation is best managed when there are smart leaders who recognize the needs of the organization and are willing to guide it on the right direction. Smart leadership is a critical capability that companies must put into practice when they set out to build a data-driven culture in the organization.
+description: The complex environment in which most business organizations operate around the world has made the practices that lead to open innovation become an essential tool for any transformational leader who relies on the potential of external ideas, knowledge, and technologies to create value.
 imageAltAttribute: Best Agile Practices for Transformational Leaders
 image: images/best-agile-practices.jpg
 tags:
@@ -22,9 +22,11 @@ Open innovation is a way of organizing innovation built on the idea that organiz
 
 > Open innovation has become an imperative for orchestrating business innovation and transformation
 
-Implicit in open innovation is the idea that no firm can truly innovate in isolation, but rather must engage with a plethora of actors and partners to acquire ideas and resources from the external environment that ultimately help the organization stay ahead of competitors. Hence, open innovation enriches the traditional innovation funnel, where the boundaries are typically closed, by bringing the external environment inside the funnel, so that innovations can even be exploited outside the firm (Fig. 1).
+Implicit in open innovation is the idea that no firm can truly innovate in isolation, but rather must engage with a plethora of actors and partners to acquire ideas and resources from the external environment that ultimately help the organization stay ahead of competitors. Hence, open innovation enriches the traditional innovation funnel, where the boundaries are typically closed, by bringing the external environment inside the funnel, so that innovations can even be exploited outside the firm ([Figure 1](#open-innovation)).
 
-According to the open innovation paradigm, organizations should not rely solely on their own internal research and ideas but also seek outside sources that can boost their innovation. While the outside-in (or inbound) direction is perhaps the best known and most developed mode of open innovation, it is not the only one. There is also an inside-out (or outbound) mode and a coupled mode, which involves combined inputs and outputs of knowledge between innovation actors (Fig.1).
+According to the open innovation paradigm, organizations should not rely solely on their own internal research and ideas but also seek outside sources that can boost their innovation. While the outside-in (or inbound) direction is perhaps the best known and most developed mode of open innovation, it is not the only one. There is also an inside-out (or outbound) mode and a coupled mode, which involves combined inputs and outputs of knowledge between innovation actors ([Figure 1](#open-innovation)).
+
+<img src="index_files/open-innovation-with-agility-1.png" alt="Open Innovation model" id="open-innovation"/>
 
 Fig.1 The open innovation model. Source: own elaboration based on Chesbrough & Bogers (2014). Explicating open innovation: Clarifying an emerging paradigm for understanding innovation. In New Frontiers in Open Innovation (pp. 3--28). Oxford University Press.
 
