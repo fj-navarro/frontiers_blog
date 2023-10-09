@@ -36,7 +36,7 @@ The inside-out mode considers the firm's intellectual property (IP) as an enable
 
 The combination of the outside-in and the inside-out modes leads to the so-called coupled mode of open innovation. This mode requires that both processes occur simultaneously, which usually calls for some type of partnership agreement between firms, such as strategic alliances, joint ventures, or spin-offs, to jointly develop and commercialize innovations.
 
-## Open Innovation with Agility 
+## Open Innovation with Agility
 
 Open innovation includes a wide variety of different activities, from collaborations between industry and academia, to the development of open source software, crowdsourcing, or the relationships between corporations and start-ups.
 
@@ -48,19 +48,19 @@ The above basically means that the open innovation paradigm shares many principl
 
 User/customer engagement is continuous during the development of open innovation and takes place from the very beginning. Digital tools ensure that sharing and collaboration are much easier and that there is an open dialogue between the firm and the key stakeholders along the process.
 
-## Tips for Adopting Open Innovation with Agility 
+## Tips for Adopting Open Innovation with Agility
 
 To harness the potential of both inbound open innovation and Agile principles, the firm must develop a culture and organizational set-up that addresses the following critical issues.
 
--   Management must buy in: To combine open innovation with Agile principles and scale any mixed initiative across the organization it is critical to gain the commitment and buy-in of the firm's top management. When top management understands both Agile and open innovation principles and shares the overall goals of the combined initiatives, it is possible to secure the necessary resources to drive open innovation and make critical decisions when needed.
+-   **Management must buy in:** To combine open innovation with Agile principles and scale any mixed initiative across the organization it is critical to gain the commitment and buy-in of the firm's top management. When top management understands both Agile and open innovation principles and shares the overall goals of the combined initiatives, it is possible to secure the necessary resources to drive open innovation and make critical decisions when needed.
 
--   Legal problems must be solved: A common concern of top management when dealing with the open innovation paradigm is the protection of the resources at stake, especially those related to the protection of intellectual property. Questions about how to protect certain data or information, how to establish collaboration agreements with other firms, and how to manage patents and other rights and obligations must be resolved beforehand.
+-   **Legal problems must be solved:** A common concern of top management when dealing with the open innovation paradigm is the protection of the resources at stake, especially those related to the protection of intellectual property. Questions about how to protect certain data or information, how to establish collaboration agreements with other firms, and how to manage patents and other rights and obligations must be resolved beforehand.
 
--   Operational issues must be handled: To act openly, with agility, and more focused on the needs of users/customers, it is vital to align the firm's operational processes in a different way. The firm will need continuous and deeper access to its customers and users to gain insight about their needs and preferences, it will have to collaborate with other actors with different goals and business models, and incentivize its workforce to share and collaborate, among other things.
+-   **Operational issues must be handled:** To act openly, with agility, and more focused on the needs of users/customers, it is vital to align the firm's operational processes in a different way. The firm will need continuous and deeper access to its customers and users to gain insight about their needs and preferences, it will have to collaborate with other actors with different goals and business models, and incentivize its workforce to share and collaborate, among other things.
 
--   Proactive change management to involve all stakeholders: When the firm decides that it is going to implement the open innovation paradigm with Agile principles, all stakeholders must get involved. However, not everyone is ready to work in this way initially. Some won't know how to do it, others won't be able to, and there will surely be those who just don't want to do it. This is why the firm must perform proactive change management for all stakeholders to adapt to the new structure of values of the organization.
+-   **Proactive change management to involve all stakeholders:** When the firm decides that it is going to implement the open innovation paradigm with Agile principles, all stakeholders must get involved. However, not everyone is ready to work in this way initially. Some won't know how to do it, others won't be able to, and there will surely be those who just don't want to do it. This is why the firm must perform proactive change management for all stakeholders to adapt to the new structure of values of the organization.
 
--   Decide when to be open and Agile: It is not always in the firm's interest to adopt an Agile and open innovation approach. Many times, it can happen that a closed and traditional (waterfall) approach is more appropriate for what the firm needs. Sometimes making the transition to a new culture, new processes, or changing people's beliefs, habits and customs is simply an exaggerated effort that the firm cannot afford or does not want to make. Firms must be very aware of the pros and cons of implementing open innovation and Agile practices and decide when the best time is to move forward.
+-   **Decide when to be open and Agile:** It is not always in the firm's interest to adopt an Agile and open innovation approach. Many times, it can happen that a closed and traditional (waterfall) approach is more appropriate for what the firm needs. Sometimes making the transition to a new culture, new processes, or changing people's beliefs, habits and customs is simply an exaggerated effort that the firm cannot afford or does not want to make. Firms must be very aware of the pros and cons of implementing open innovation and Agile practices and decide when the best time is to move forward.
 
 A common way to address the main issues mentioned above is to embed Agile principles into the hierarchical structures of the organization and progressively move step by step to achieve the desired goals.
 
@@ -70,7 +70,7 @@ Transformational leaders truly committed to open innovation will need to play a 
 
 The drawbacks and limitations that the combination of open innovation and organizational agility entails for most organizations remains to be seen, as more research is needed on this topic.
 
-## Conclusion 
+## Conclusion
 
 Although there are many business organizations that are fully aware of the usefulness of the open innovation paradigm to drive the transition towards a smart organization, the problem is that most of them usually do not have the capacity to put it into practice.
 
