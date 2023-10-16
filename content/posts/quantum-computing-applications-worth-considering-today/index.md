@@ -45,7 +45,7 @@ Efficient searching and sorting of large datasets have become high priority for 
 
 Other popular machine learning applications, such as voice, image and handwriting recognition have become challenging tasks for traditional computers in terms of speed and accuracy. This is where quantum computing can be of great help by substantially improving pattern recognition and time lapses to solve these complex problems that would take traditional computers hundreds of years.
 
-<p><center><img src="index_files/quantum-computing-applications-2.png" alt="Richard Feynman"> </center>
+<p><center><img src="index_files/quantum-computing-applications-2.png" alt="German Quantum Computer"> </center>
 <center>Image: Bavarian science minister visiting a quantum computer at the Leibniz Supercomputing Center (Source: Sven Hoppe/dpa/Alamy @Nature.com)</center></p>
 
 ### Robotics Applications
