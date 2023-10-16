@@ -1,11 +1,12 @@
 ---
 title: How to Adopt Open Innovation with Agility for Business Transformation
-date: "2023-10-02"
+date: "2023-07-25"
 description: The complex environment in which most business organizations operate around the world has made the practices that lead to open innovation become an essential tool for any transformational leader who relies on the potential of external ideas, knowledge, and technologies to create value.
 imageAltAttribute: Best Agile Practices for Transformational Leaders
 image: images/best-agile-practices.jpg
 tags:
 - Governance
+- Innovation
 ---
 
 **The complex environment in which most business organizations operate around the world has made the practices that lead to open innovation become an essential tool for any transformational leader who relies on the potential of external ideas, knowledge, and technologies to create value.**
@@ -28,7 +29,7 @@ According to the open innovation paradigm, organizations should not rely solely 
 
 <img src="index_files/open-innovation-with-agility-1.png" alt="Open Innovation model" id="openinnovation"/>
 
-Fig.1 The open innovation model. Source: own elaboration based on Chesbrough & Bogers (2014). Explicating open innovation: Clarifying an emerging paradigm for understanding innovation. In New Frontiers in Open Innovation (pp. 3--28). Oxford University Press.
+Fig.1 The open innovation model. Source: own elaboration based on Chesbrough & Bogers (2014). Explicating open innovation: Clarifying an emerging paradigm for understanding innovation. In New Frontiers in Open Innovation (pp. 3-28). Oxford University Press.
 
 The inside-out mode considers the firm's intellectual property (IP) as an enabler to access external ideas and allow others to use the firm's own ideas. This is possible because there are intellectual property rights (IPR) that grant their owners the right to exploit and share them with third parties under the established terms.
 
