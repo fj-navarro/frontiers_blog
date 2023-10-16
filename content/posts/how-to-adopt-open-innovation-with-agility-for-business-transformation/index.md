@@ -79,4 +79,4 @@ Implementing an open innovation strategy in firms little or not used to opening 
 
 Despite the obvious difficulties, transformational leaders would better be convinced that the development of open innovation is essential to guarantee the continuity of the organization.
 
-<p style= "font-size:10px;">Photo by pch.vector <a href="https://www.freepik.es/vector-gratis/bote-remos-equipo-negocios_6974857.htm#query=leadership&position=33&from_view=search&track=sph#position=33&query=leadership" target="_blank">Freepik</a></p>
+<p style= "font-size:10px;">Photo by senivpetro <a href="https://www.freepik.es/foto-gratis/grupo-personas-trabajando-plan-negocios-oficina_5495017.htm#query=meeting&position=3&from_view=search&track=sph" target="_blank">Freepik</a></p>
