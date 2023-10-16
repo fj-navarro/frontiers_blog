@@ -3,7 +3,7 @@ title: How to Adopt Open Innovation with Agility for Business Transformation
 date: "2023-07-25"
 description: The complex environment in which most business organizations operate around the world has made the practices that lead to open innovation become an essential tool for any transformational leader who relies on the potential of external ideas, knowledge, and technologies to create value.
 imageAltAttribute: Best Agile Practices for Transformational Leaders
-image: images/best-agile-practices.jpg
+image: images/open-innovation-with-agility.jpg
 tags:
 - Governance
 - Innovation
