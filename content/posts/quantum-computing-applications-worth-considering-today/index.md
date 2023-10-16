@@ -48,7 +48,6 @@ Other popular machine learning applications, such as voice, image and handwritin
 <p><center><img src="index_files/quantum-computing-applications-2.png" alt="Richard Feynman"> </center>
 <center>Image: Bavarian science minister visiting a quantum computer at the Leibniz Supercomputing Center (Source: Sven Hoppe/dpa/Alamy @Nature.com)</center></p>
 
-
 ### Robotics Applications
 
 Robots use high graphics processing power (GPU) to solve computational tasks that are very data-intensive, such as vision, movement, and optimal control. Quantum computing may help perform calculations at considerable speed and improve the ability of robots to sense their environment and, by using cloud-based quantum computing, solve highly complex technical issues.
@@ -61,7 +60,7 @@ Other typical issues of robot operation, such as identifying the reasons for the
 
 Quantum computing can also help reduce the complexity implicit in AI-based robotics by using quantum random walks to speed up response time and accuracy, rather than using information deduced from graph search.
 
-## Quantum Cloud Applications
+### Quantum Cloud Applications
 
 A quantum cloud computer is a quantum computer that can be accessed over a network. Creating a safe and efficient environment for quantum computing in the cloud is an area that has great potential.
 
@@ -98,7 +97,7 @@ Quantum cryptography is another application with great potential for real-life b
 
 Compared to traditional cryptography, quantum cryptography increases the probability of intrusion detection and improves performance. However, although with quantum computing companies can protect themselves better, it also adds the risk of being able to crack many of the conventional cryptographic systems used today (i.e., RSA).
 
-### Conclusions
+## Conclusions
 
 Although advances in quantum computing look promising and the tech industry is moving closer to "quantum supremacy"---that is, the ability to solve a problem on a quantum computer that is intractable on a classical machine---many difficult challenges remain ahead that will probably take years to resolve.
 
