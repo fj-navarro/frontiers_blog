@@ -2,7 +2,7 @@
 title: Managing Business Transformation with Ambidexterity
 date: "2023-05-24"
 description: Business transformation initiatives deliberately introduce organizational changes that are global and pursue ambidexterity, namely, the simultaneous combination of two different modes of operation, the exploitation mode and the exploration mode. In general, companies will use different approaches in their exploration and exploitation strategies.
-image: "images/the-art-of-ambidexterity.png"
+image: "images/managing-with-ambidexterity.jpg"
 tags: 
 - Management
 editor_options: 
