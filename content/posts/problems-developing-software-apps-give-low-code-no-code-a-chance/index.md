@@ -106,4 +106,4 @@ Along with the benefits provided by Low-code/No-code strategies, there are, howe
 
 Transformational leaders will need to be aware that users of Low-code/No-code platforms usually lack programming knowledge and, consequently, this is a limiting factor for adapting and applying Low-code/No-code strategies in any business transformation roadmap.
 
-<p style= "font-size:10px;">Photo by Freepik<a href="https://www.freepik.es/vector-gratis/dibujado-mano-ilustracion-pagina-inicio-diseno-plano_21665021.htm#query=low%20code&position=20&from_view=search&track=ais">Freepik</a></p>
+<p style= "font-size:10px;">Photo by Freepik <a href="https://www.freepik.es/vector-gratis/dibujado-mano-ilustracion-pagina-inicio-diseno-plano_21665021.htm#query=low%20code&position=20&from_view=search&track=ais">@Freepik</a></p>
