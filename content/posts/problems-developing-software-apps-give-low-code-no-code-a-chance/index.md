@@ -20,8 +20,12 @@ Furthermore, software systems are inherently complex, forcing developers to work
 
 In this environment, managing the interdependencies can be very costly, even more so as systems grow in size and complexity ([Figure 1](#market)).
 
-![Fig.1.
-Business areas with greatest need to address potential skil gaps (Source: Trientpont)](index_files/low-code-strategy-1.png)
+<img src="index_files/low-code-strategy-1.png" alt="Business areas with greatest need to address potential skil gaps" id="market"/>
+
+Figure 1: Business areas with greatest need to address potential skil gaps
+
+Source: Trientpont
+
 
 One of the immediate consequences of all the above, according to [Gartner](https://www.gartner.com/en), is that the demand for qualified software developers has become challenging and will increase five times faster than the industry's ability to supply it.
 
@@ -39,13 +43,11 @@ The rationale for a Low-code strategy is therefore to provide the opportunity to
 
 A variant of Low-code, known as No-code development, aims to eliminate all coding when developing software solutions.
 
-Low-code software development is accomplished on Low-code software development platforms, either cloud-based with a Platform-as-a-service (PaaS) model or on-premises.
-Using visual diagrams, declarative languages, and dynamic graphical user interfaces, the developers define user interfaces, business logic, and data services.
+Low-code software development is accomplished on Low-code software development platforms, either cloud-based with a Platform-as-a-service (PaaS) model or on-premises. Using visual diagrams, declarative languages, and dynamic graphical user interfaces, the developers define user interfaces, business logic, and data services.
 
 # Low-code Tools
 
-Low-code tools are nothing new, in fact they first appeared in the 1980s as Computer-aided software engineering (CASE) tools, which shared concepts with computer-aided design tools.
-The term "low-code" was coined in 2014 by [Forrester Research](https://www.forrester.com/) in a report that analyzed the current positions of the main vendors in the market.
+Low-code tools are nothing new, in fact they first appeared in the 1980s as Computer-aided software engineering (CASE) tools, which shared concepts with computer-aided design tools. The term "low-code" was coined in 2014 by [Forrester Research](https://www.forrester.com/) in a report that analyzed the current positions of the main vendors in the market.
 
 Originally, these tools were intended to offer layers of abstraction, in the form of libraries for handling timestamps or mathematical functions, so that developers would not have to worry about the finer details of a program.
 However, as the use of mainframes began to decline, their use became rarer.
@@ -59,12 +61,14 @@ These applications range from web and mobile apps to backend applications and us
 According to [Gartner](https://www.gartner.com/en), the Low-code industry is growing strongly and predicts that more than 65% of all application development will be done through low-code development platforms by 2024, and that three-quarters of all large companies will use the least four Low-code development platforms by that year.
 Other market studies predict significant growth in the coming years to reach US\$45.5 billion by 2025.
 
-Among the most popular Low-code/No-code vendors are [Mendix](https://www.mendix.com/), [OutSystems](https://www.outsystems.com/), and [Microsoft PowerApps](https://powerapps.microsoft.com/), followed by [ServiceNow](https://www.servicenow.com/), [Salesforce](https://www.salesforce.com/), and [Appian](https://appian.com/) (Fig.2)
+Among the most popular Low-code/No-code vendors are [Mendix](https://www.mendix.com/), [OutSystems](https://www.outsystems.com/), and [Microsoft PowerApps](https://powerapps.microsoft.com/), followed by [ServiceNow](https://www.servicenow.com/), [Salesforce](https://www.salesforce.com/), and [Appian](https://appian.com/) ([Fig.2](#quadrant))
 
-![](index_files/low-code-strategy-2.png)
+<center><img src="index_files/low-code-strategy-2.png" alt="2023 Gartner® Magic Quadrant™ for Enterprise Low-Code Application Platforms" id="quadrant"/></center>
 
-Fig.2.
-2023 Gartner® Magic Quadrant™ for Enterprise Low-Code Application Platforms (Source: Gartner)
+Figure 2: 2023 Gartner® Magic Quadrant™ for Enterprise Low-Code Application Platforms
+
+Source: Gartner
+
 
 # Benefits
 
