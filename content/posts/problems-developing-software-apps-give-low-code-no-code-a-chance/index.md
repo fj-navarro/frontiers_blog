@@ -18,13 +18,10 @@ For example, [IDC](https://www.idc.com/) has forecast a global shortage of four 
 
 Furthermore, software systems are inherently complex, forcing developers to work with multiple technologies, languages, and libraries.
 
-In this environment, managing the interdependencies can be very costly, even more so as systems grow in size and complexity ([Figure 1](#market).
+In this environment, managing the interdependencies can be very costly, even more so as systems grow in size and complexity ([Figure 1](#market)).
 
 ![Fig.1.
 Business areas with greatest need to address potential skil gaps (Source: Trientpont)](index_files/low-code-strategy-1.png)
-
-Fig.1.
-Business areas with greatest need to address potential skil gaps (Source: Trientpont)
 
 One of the immediate consequences of all the above, according to [Gartner](https://www.gartner.com/en), is that the demand for qualified software developers has become challenging and will increase five times faster than the industry's ability to supply it.
 
@@ -105,4 +102,4 @@ Along with the benefits provided by Low-code/No-code strategies, there are, howe
 
 Transformational leaders will need to be aware that users of Low-code/No-code platforms usually lack programming knowledge and, consequently, this is a limiting factor for adapting and applying Low-code/No-code strategies in any business transformation roadmap.
 
-<p style= "font-size:10px;">Photo by pch.vector <a href="https://www.freepik.es/vector-gratis/bote-remos-equipo-negocios_6974857.htm#query=leadership&position=33&from_view=search&track=sph#position=33&query=leadership" target="_blank">Freepik</a></p>
+<p style= "font-size:10px;">Photo by Freepik<a href="https://www.freepik.es/vector-gratis/dibujado-mano-ilustracion-pagina-inicio-diseno-plano_21665021.htm#query=low%20code&position=20&from_view=search&track=ais">Freepik</a></p>
