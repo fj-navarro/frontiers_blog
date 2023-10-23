@@ -19,6 +19,7 @@ Transformational leaders often address this challenge by adopting different comb
 Additionally, transformational leaders typically face the need to push transformational change through multiple transformation initiatives that affect different levels and have varying impacts on the organization.
 
 Although the possibility to engage in transformational initiatives often arises to respond to the opportunities detected by transformational leaders to generate new paths of value, these also involve greater internal complexity when all the initiatives are joined together.
+
 Thus arises the need for transformational leaders to manage the dichotomy between exploring the opportunities offered by environmental changes and, at the same time, continuing to exploit day-to-day operations.
 
 ## Ambidexterity Explained
@@ -36,6 +37,7 @@ Every transformational leader must, therefore, learn to find an appropriate bala
 ## How to Approach Ambidexterity Effectively?
 
 Transformational leaders have different approaches available to achieve ambidexterity in their company.
+
 Each of these approaches usually encompasses different initiatives at various levels that are usually grouped into the following:
 
 -   Cultural change initiatives.
@@ -55,6 +57,7 @@ For this reason, it is highly recommended that transformational leaders use expl
 ## Organizing for Ambidexterity
 
 Companies sometimes create dual structures to make ambidexterity structural, meaning that they simultaneously maintain a traditional organizational structure for the exploitation mode and another open and agile structure for the exploration mode.
+
 Under this dual approach, transformational leaders maintain a clear-cut separation between the activities involved in the exploitation mode and those of the exploration mode.
 
 On other occasions, when the need to combine both approaches is justified, transformational leaders establish hybrid organizational configuration.
@@ -78,6 +81,7 @@ With a transformation governance framework in place, it is possible to more effe
 Ultimately, transformational leaders must keep in mind that the transformation of a business organization must be carried out by and designed for people, so employees must always be at the center of any business transformation strategy by design.
 
 Interpersonal and cultural aspects play a crucial role in a successful business transformation strategy based on ambidexterity.
+
 Excellent communication with people and leadership are fundamental tools that must always facilitate employee collaboration between all business areas.
 
 Maintaining continuous personal interactions at all levels of the company, understanding the objectives pursued and sharing the necessary knowledge between people should not only help reduce the economic and social costs of organizational transformation, but should also contribute to accelerating the entire transformation process.
@@ -85,7 +89,9 @@ Maintaining continuous personal interactions at all levels of the company, under
 ## Conclusions
 
 Both exploration (represented by the opportunity for change) and exploitation (represented by business stability) must form an interdependent system and a mutually beneficial duality.
+
 The above means that transformational leaders will need to learn how to best manage their business transformation initiatives accordingly.
+
 Otherwise, exploration and exploitation can end up forming a duality of opposing, poorly balanced activities, which entails high costs for the organization and is a drag on the execution of the sought-after transformation.
 
 As we have learned in this article, transformational leaders must not only focus on detecting good transformation opportunities through appropriate use cases and articulating the most effective and efficient way to implement transformation initiatives, but they will also have to decide on the emphasis and scope of ambidexterity in the organization as a key element of its transformative mindset.

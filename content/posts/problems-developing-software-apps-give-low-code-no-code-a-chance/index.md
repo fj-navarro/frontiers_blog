@@ -2,7 +2,7 @@
 title: Problems Developing Software Apps? Give Low-code/No-code a Chance
 date: "2023-09-05"
 description: Companies are facing a shortage of software developers around the world. The number of software developers needed to cover all of the industry's needs is staggering and only increasing. The implementation of a Low-code/No-code development strategy offers a way to alleviate the problem of the shortage of software developers and manage the growing complexity in the development of software systems.
-image: images/low-code-strategy.png
+image: images/low-code-strategy.jpg
 share: true
 tags:
 - Technology
@@ -17,9 +17,11 @@ editor_options:
 For example, [IDC](https://www.idc.com/) has forecast a global shortage of four million software developers by 2025, while the [US Bureau of Labor Statistics](https://www.bls.gov/) shows that nearly 200,000 developer jobs will be needed each year until the end of the decade.
 
 Furthermore, software systems are inherently complex, forcing developers to work with multiple technologies, languages, and libraries.
-In this environment, managing the interdependencies can be very costly, even more so as systems grow in size and complexity (Fig.1).
 
-![](index_files/low-code-strategy-1.png)
+In this environment, managing the interdependencies can be very costly, even more so as systems grow in size and complexity ([Figure 1](#market).
+
+![Fig.1.
+Business areas with greatest need to address potential skil gaps (Source: Trientpont)](index_files/low-code-strategy-1.png)
 
 Fig.1.
 Business areas with greatest need to address potential skil gaps (Source: Trientpont)
@@ -30,7 +32,7 @@ In face of this challenging context for transformational leaders, the implementa
 
 In this article we will learn more about this relatively new Low-code/No-code approach and delve into the benefits and challenges of implementing it at the business level.
 
-# What Is a Low-code Strategy About? 
+# What Is a Low-code Strategy About?
 
 A Low-code strategy is nothing more than articulating, in a systematized manner and aligned with the organization's key objectives and strategies, the implementation and use of Low-code practices to service those users who can contribute to the development of solutions in their particular domains, without having specific software development skills.
 
@@ -43,7 +45,7 @@ A variant of Low-code, known as No-code development, aims to eliminate all codin
 Low-code software development is accomplished on Low-code software development platforms, either cloud-based with a Platform-as-a-service (PaaS) model or on-premises.
 Using visual diagrams, declarative languages, and dynamic graphical user interfaces, the developers define user interfaces, business logic, and data services.
 
-# Low-code Tools 
+# Low-code Tools
 
 Low-code tools are nothing new, in fact they first appeared in the 1980s as Computer-aided software engineering (CASE) tools, which shared concepts with computer-aided design tools.
 The term "low-code" was coined in 2014 by [Forrester Research](https://www.forrester.com/) in a report that analyzed the current positions of the main vendors in the market.
@@ -67,7 +69,7 @@ Among the most popular Low-code/No-code vendors are [Mendix](https://www.mendix.
 Fig.2.
 2023 Gartner® Magic Quadrant™ for Enterprise Low-Code Application Platforms (Source: Gartner)
 
-# Benefits 
+# Benefits
 
 Among the main benefits provided by Low-code/No-code development platforms, two are often cited: the reduction of manual coding, and the possibility of faster deployment of applications with the help of visual tools and the ability to create multi-level workflows.
 
@@ -84,19 +86,23 @@ Among them, usability is perhaps the most notable challenge, considering that mo
 
 Added to this are often concerns about data security, lack of trust in the delivered application/data, and the need for governance approaches.
 
+> Low-code/No-code development platforms can also be used by expert developers in order to minimize (or eliminate) the number of lines of code written
+
 Other important challenges, similar to what happens with other advanced technologies, is the dependence on the platforms adopted (vendor lock-in) when deciding on the growth and evolution of applications, and the still limited functionalities offered by vendors.
 
-# Conclusion 
+# Conclusion
 
 Low-code/No-code software development is an emerging trend that aims to address some of the main causes of delay in application development in a business transformation context: the shortage of professional developers and the increasing complexity of software systems development.
 
 To solve, or at least alleviate, these tensions, Low-code/No-code platforms allow non-programming and non-technical users to actively participate in the development process.
+
 These users are typically experts in a particular domain and specific system functionalities, meaning they know and can define the requirements, and can participate in the phases of the software development life cycle: design, development, testing, implementation, and maintenance.
 
 Low-code platforms enable rapid translation of business requirements to new application development, as well as the ability to make adjustments quickly, as there is no need for extensive manual coding.
 Furthermore, due to the reduction in time spent in the software development cycle, it is also possible to reduce development costs for the company.
 
 Along with the benefits provided by Low-code/No-code strategies, there are, however, important challenges that only time will tell how they are solved by vendors.
+
 Transformational leaders will need to be aware that users of Low-code/No-code platforms usually lack programming knowledge and, consequently, this is a limiting factor for adapting and applying Low-code/No-code strategies in any business transformation roadmap.
 
 <p style= "font-size:10px;">Photo by pch.vector <a href="https://www.freepik.es/vector-gratis/bote-remos-equipo-negocios_6974857.htm#query=leadership&position=33&from_view=search&track=sph#position=33&query=leadership" target="_blank">Freepik</a></p>
