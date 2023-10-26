@@ -1,5 +1,5 @@
 ---
-title: Problems Developing Software Apps? Give Low-code/No-code a Chance
+title: Low-code/No-code- Unlocking Software Development Capabilities
 date: "2023-09-05"
 description: Companies are facing a shortage of software developers around the world. The number of software developers needed to cover all of the industry's needs is staggering and only increasing. The implementation of a Low-code/No-code development strategy offers a way to alleviate the problem of the shortage of software developers and manage the growing complexity in the development of software systems.
 image: images/low-code-strategy.jpg
