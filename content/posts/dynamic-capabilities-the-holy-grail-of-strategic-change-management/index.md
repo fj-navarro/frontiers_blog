@@ -1,7 +1,7 @@
 ---
 title: Dynamic Capabilities- The Holy Grail of Strategic Change Management
 date: "2023-05-17"
-description: In today’s business context marked by strong competition and continuous pressure for organizations to transform and not stop innovating, an endless number of new difficulties and challenges arise that transformational leaders must learn to manage. It is crucial that transformational leaders effectively manage the set of capabilities that organizations possess to respond to environmental changes and maintain a high level of performance.
+description: In today’s business environment marked by strong competition and continuous pressure for organizations to transform and not stop innovating, an endless number of new difficulties and challenges arise that transformational leaders must manage. It is crucial that transformational leaders effectively identify and develop a set of dynamic capabilities to respond to environmental changes and maintain a high level of performance.
 image: images/dynamic-capabilities.jpg
 tags:
 - Management
@@ -11,7 +11,7 @@ editor_options:
     wrap: sentence
 ---
 
-**In today's business context marked by strong competition and continuous pressure for organizations to transform and not stop innovating, an endless number of new difficulties and challenges arise that transformational leaders must learn to manage.**
+**In today's business environment marked by strong competition and continuous pressure for organizations to transform and not stop innovating, an endless number of new difficulties and challenges arise that transformational leaders must manage.**
 
 Companies need to constantly adjust their strategies to remain relevant, and having a solid business transformation strategy that is well aligned with the rest of the organization's strategies becomes essential.
 
@@ -22,13 +22,11 @@ In this complicated game, it is crucial that transformational leaders effectivel
 With that in mind, transformational leaders must begin distinguishing between two main types of organizational capabilities: 1) operational capabilities, that is, those intended to maintain and support the company's current exploitation activities, products, and customers, and 2) dynamic capabilities, those oriented toward strategic change.
 
 A dynamic capability is the ability of an organization to deliberately create, increase or modify its operational resource base.
-Through a dynamic capability the organization can systematically modify its operational routines and resource configurations in search of greater effectiveness and better performance as the environment changes or evolves (Fig.1).
+Through a dynamic capability the organization can systematically modify its operational routines and resource configurations in search of greater effectiveness and better performance as the environment changes or evolves ([Figure 1](#dc)).
 
-Figure 1.
-Framework of dynamic capabilities Source: Schilke, O., Hu, S., & Helfat, C. E.
-(2018).
-Quo vadis, dynamic capabilities?
-A content-analytic review of the current state of knowledge and recommendations for future research.
+<img src="index_files/dynamic-capabilities-1.png" alt="Framework of dynamic capabilities" id="dc"/>
+
+Figure 1. Framework of dynamic capabilities Source: Schilke, O., Hu, S., & Helfat, C. E.(2018).Quo vadis, dynamic capabilities? A content-analytic review of the current state of knowledge and recommendations for future research.
 Academy of management annals, 12(1), 390-439.
 
 By identifying the dynamic capabilities of the organization and establishing a shift in the resource base, transformational leaders are better able to boost business transformation processes, positively impact performance, and secure competitive advantages for the company.
@@ -65,10 +63,11 @@ Ultimately, this means that, although some companies manage to build and integra
 
 ## Determinants of Dynamic Capabilities
 
-If companies aspire to remain relevant and improve their performance in an environment full of challenges and uncertainties by developing dynamic capabilities, that is, if they deliberately seek to create advantages by adding unique value to the company through systematic changes in resources that are difficult to imitate, the next question is: **what are the key determinants of dynamic capabilities?** (Fig.2)
+If companies aspire to remain relevant and improve their performance in an environment full of challenges and uncertainties by developing dynamic capabilities, that is, if they deliberately seek to create advantages by adding unique value to the company through systematic changes in resources that are difficult to imitate, the next question is: **what are the key determinants of dynamic capabilities?** ([Figure 2](#dc2)).
 
-Figure 2.
-Determinants of dynamic capabilities
+<img src="index_files/dynamic-capabilities-2.png" alt="Determinants of dynamic capabilities" id="dc2"/>
+
+Figure 2.Determinants of dynamic capabilities
 
 Source: Wittenstein, D.(2022).Champions of digital transformation?The dynamic capabilities of hidden champions. In Managing Digital Transformation: Evidence from Hidden Champions and Measurement Approaches (pp. 35-73).Wiesbaden: Springer Fachmedien Wiesbaden.
 
