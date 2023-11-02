@@ -13,7 +13,7 @@ editor_options:
 
 **In today's business environment marked by strong competition and continuous pressure for organizations to transform and not stop innovating, an endless number of new difficulties and challenges arise that transformational leaders must manage.**
 
-Companies need to constantly adjust their strategies to remain relevant, and having a solid business transformation strategy that is well aligned with the rest of the organization's strategies becomes essential.
+Companies need to constantly adjust their strategies to remain relevant, and having a solid [business transformation strategy](https://frontiersinbusinesstransformation.com/posts/setting-up-a-successful-business-transformation-strategy/) that is well aligned with the rest of the organization's strategies becomes essential.
 
 In this complicated game, it is crucial that transformational leaders effectively manage the set of capabilities that organizations possess to respond to environmental changes and maintain a high level of performance.
 
@@ -46,7 +46,7 @@ The dynamic capabilities of an organization are those that support the capacitie
 
 -   **Seizing capabilities** allow the organization to identify and analyze the relevant sources of change and then find the best answer to them, identifying the gaps that exist in the organization's capabilities in order to fulfil them effectively.
 
--   **Transformation capabilities** align the organization's responses and resources with the business transformation strategy.
+-   **Transformation capabilities** align the organization's responses and resources with the [business transformation strategy](https://frontiersinbusinesstransformation.com/posts/setting-up-a-successful-business-transformation-strategy/).
     In this way, the organization can identify gaps in its skills and knowledge base and develop the necessary competencies to address transformation initiatives.
 
 In summary, dynamic capabilities can be understood as the amalgamation of capacities and skills with which an organization generates, identifies, and analyzes new knowledge and integrates it into the organization's routines with the purpose of positively affecting the company's performance.
@@ -111,7 +111,7 @@ The development of dynamic capabilities provides a systematic and coherent respo
 This alone justifies that transformational leaders strive to acquire and strengthen dynamic capabilities in their organizations.
 
 Transformational leaders increasingly realize that their organizations need to continually identify and gather new information about the complex environment around them and be able to quickly transform this knowledge into new resources and capabilities.
-This inevitably requires organizations to become agile and ambidextrous to seize new opportunities and adapt their business models and work processes to the new knowledge so acquired.
+This inevitably requires organizations to become agile and [ambidextrous](https://frontiersinbusinesstransformation.com/posts/managing-business-transformation-with-ambidexterity/) to seize new opportunities and adapt their business models and work processes to the new knowledge so acquired.
 
 However, not all organizations are capable or successful in developing purposeful dynamic capabilities.There are often many barriers that hinder the path of change.
 Even more so if one considers that dynamic capabilities can only be built over time and cannot be replicated or acquired in the market.
