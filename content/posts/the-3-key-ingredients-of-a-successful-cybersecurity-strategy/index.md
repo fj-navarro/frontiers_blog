@@ -23,6 +23,8 @@ It is important that senior management views cybersecurity as an organization-wi
 
 Establishing an information security oversight committee, chaired by the firm's CEO or COO and involving executives from all business units of the firm, is a proven best practice in many organizations. The committee should meet regularly to review newly identified cybersecurity risks and update security policies and procedures.
 
+> The damage inflicted by an attack on any company's operational capacity will far outweigh any benefits the company has previously gained
+
 Once the team is formed, establishing the right links between people, processes, and security technologies is another key success factor for the organization's cybersecurity program.
 
 This is the time when the cybersecurity team will need to decide on the cybersecurity framework to use (e.g., NIST, ISO/IEC 27005, OCTAVE). The chosen framework should allow the team to document and assess its ability to prevent, detect, and respond to cyber-attacks, while applying good cybersecurity practices that integrate both a compliance-based approach and promote anticipation through proactive threat behavior.
@@ -47,7 +49,7 @@ To evaluate and compare the effectiveness of the cybersecurity processes develop
 
 -   The level of current threat.
 
-When considering a cybersecurity framework, business owners and managers should keep in mind that excessive application of security controls can also be a drag on innovation, without bringing additional benefits to organizational performance. For this reason, it is convenient to evaluate both the probability and the impact that each security threat has on the organization and thus decide which ones should be prioritized and will require an additional investment for the implementation of technical controls.
+When considering a cybersecurity framework, transformational leaders should keep in mind that excessive application of security controls can also be a drag on innovation, without bringing additional benefits to organizational performance. For this reason, it is convenient to evaluate both the probability and the impact that each security threat has on the organization and thus decide which ones should be prioritized and will require an additional investment for the implementation of technical controls.
 
 # Technologies
 
@@ -77,6 +79,6 @@ Once the organization has the above controls covered through foundational level 
 
 Traditional cybersecurity strategies and tools have become increasingly ineffective as the cyber threat landscape has continued to grow. Organizations have no other option but to continue responding to the new security needs that are emerging.
 
-The mentality of transformational leaders will need to change from being mostly reactive to being proactive. Instead of only detecting malware and other types of threats days after they have been installed on the organization\'s systems or after they have caused damage, firms will need to actively search for malware and all types of attacks lurking in cyberspace before being activated and causing damage within the organization.
+The mentality of transformational leaders will need to change from being mostly reactive to being proactive. Instead of only detecting malware and other types of threats days after they have been installed on the organization's systems or after they have caused damage, firms will need to actively search for malware and all types of attacks lurking in cyberspace before being activated and causing damage within the organization.
 
 <p style= "font-size:10px;">Photo by <a href="https://www.freepik.es/foto-gratis/concepto-collage-html-css-hacker_36295469.htm#query=cybersecurity&position=3&from_view=search&track=sph&uuid=0cc68242-4f27-40f3-b973-3a478b4d2f83" target="_blank">Freepik</a></p>
