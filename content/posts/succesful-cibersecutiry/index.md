@@ -67,4 +67,4 @@ Mobile Device Management (MDM), so that the organization’s control extends to 
 
 Honeypots, or custom lures that simulate the organization’s data and intellectual property, including spreadsheets, documents and files, etc.
 
-<p style= "font-size:10px;">Photo by kjpargeter <a href="https://www.freepik.es/foto-gratis/fondo-abstracto-codigo-binario_6038282.htm#query=data&position=15&from_view=search&track=sph" target="_blank">Freepik</a></p>
+<p style= "font-size:10px;">Photo by freepik <a href="https://www.freepik.es/foto-gratis/concepto-collage-html-css-hacker_36295469.htm#query=cybersecurity&position=3&from_view=search&track=sph&uuid=0cc68242-4f27-40f3-b973-3a478b4d2f83" target="_blank">Freepik</a></p>d
