@@ -77,6 +77,6 @@ Once the organization has the above controls covered through foundational level 
 
 Traditional cybersecurity strategies and tools have become increasingly ineffective as the cyber threat landscape has continued to grow. Organizations have no other option but to continue responding to the new security needs that are emerging.
 
-The mentality of transformational leaders will need to change from being mostly reactive to being proactive. Instead of only detecting malware and other types of threats days after they have been installed on the organization\'s systems or after they have caused damage, firms will need to actively search for malware and all types of attacks lurking in cyberspace before being activated and causing damage within the organization. 
+The mentality of transformational leaders will need to change from being mostly reactive to being proactive. Instead of only detecting malware and other types of threats days after they have been installed on the organization\'s systems or after they have caused damage, firms will need to actively search for malware and all types of attacks lurking in cyberspace before being activated and causing damage within the organization.
 
 <p style= "font-size:10px;">Photo by <a href="https://www.freepik.es/foto-gratis/concepto-collage-html-css-hacker_36295469.htm#query=cybersecurity&position=3&from_view=search&track=sph&uuid=0cc68242-4f27-40f3-b973-3a478b4d2f83" target="_blank">Freepik</a></p>
