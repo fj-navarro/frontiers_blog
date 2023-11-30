@@ -1,6 +1,6 @@
 ---
 title: The 3 Key Ingredients of a Successful Cybersecurity Strategy 
-description: Stories of cyber-attacks have become routine, with cyber-attackers showing increasing levels of sophistication and damage inflicted. This explains why it is absolutely key that transformational leaders are aware of the magnitude of the challenges they face and understand what is at stake. 
+description: Stories of cyber-attacks have become routine, with cyber-attackers showing increasing levels of sophistication and damage inflicted. This explains why it is absolutely key for transformational leaders to be aware of the magnitude of the challenges they face, understand what is at stake, and take into account 3 key factors to design the most successful cybersecurity strategy possible.
 date: "2023-09-12"
 imageAltAttribute: Designing a Successful Cybersecurity Strategy 
 image: images/successful-cybersecurity.jpg
