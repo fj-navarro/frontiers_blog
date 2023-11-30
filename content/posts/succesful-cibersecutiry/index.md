@@ -63,7 +63,7 @@ When it comes to determining which cybersecurity technologies the firm should in
 
 -   **Multi-Factor Authentication (MFA)** (also known as dual-factor authentication or two-step verification): It creates an additional layer of security that forces cyber-attackers to have not only a username and password to gain access to the system, but also a token to authenticate remotely.
 
-Once the organization has the above controls covered through foundational level technologies, there are much more advanced technologies that tourism firms will need to invest in to counteract the cyber threats that are becoming more sophisticated and damaging. The following advanced security technologies are designed to provide greater visibility and control so the organization can successfully address today's threat landscape.
+Once the organization has the above controls covered through foundational level technologies, there are much more advanced technologies that firms will need to invest in to counteract the cyber threats that are becoming more sophisticated and damaging. The following advanced security technologies are designed to provide greater visibility and control so the organization can successfully address today's threat landscape.
 
 -   DNS security, to prevent the organization's systems from resolving and connecting to malicious domains.
 
@@ -73,10 +73,10 @@ Once the organization has the above controls covered through foundational level 
 
 -   Honeypots, or custom lures that simulate the organization's data and intellectual property, including spreadsheets, documents and files, etc.
 
-Conclusion
+# Conclusion
 
 Traditional cybersecurity strategies and tools have become increasingly ineffective as the cyber threat landscape has continued to grow. Organizations have no other option but to continue responding to the new security needs that are emerging.
 
-The mentality of tourism firms regarding cybersecurity will need to change from being mostly reactive to being proactive. Instead of only detecting malware and other types of threats days after they have been installed on the organization\'s systems or after they have caused damage, firms will need to actively search for malware and all types of attacks lurking in cyberspace before being activated and causing damage within the organization. 
+The mentality of transformational leaders will need to change from being mostly reactive to being proactive. Instead of only detecting malware and other types of threats days after they have been installed on the organization\'s systems or after they have caused damage, firms will need to actively search for malware and all types of attacks lurking in cyberspace before being activated and causing damage within the organization. 
 
 <p style= "font-size:10px;">Photo by <a href="https://www.freepik.es/foto-gratis/concepto-collage-html-css-hacker_36295469.htm#query=cybersecurity&position=3&from_view=search&track=sph&uuid=0cc68242-4f27-40f3-b973-3a478b4d2f83" target="_blank">Freepik</a></p>
