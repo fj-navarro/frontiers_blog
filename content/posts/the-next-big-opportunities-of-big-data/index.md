@@ -1,14 +1,14 @@
 ---
 title: The Next Big Opportunities of Big Data
 date: "2023-09-21"
-description: The ethical considerations that arise from deep business transformation often go unnoticed by transformational leaders. However, ethical behavior in business transformation plays an increasingly important role, since it can provide new perspectives to understand both the transformation processes themselves and the new impacts that are emerging.
-imageAltAttribute: The Value of Ethics in Business Transformation
-image: images/the-value-of-ethics.png
+description: In the era of Big Data, great new opportunities are continually being created for virtually all business functions. Through Big Data, companies can accumulate competitive benefits, which can be conclusive if they also learn to use them on an efficient scale and are able to routinize the extraction of value from data using appropriate technique. However, Big Data and all its potential will come to nothing if companies do not equip themselves with specialized techniques and knowledge with which to analyze the results and extract value from them.
+imageAltAttribute: The Next Big Opportunities of Big Data
+image: images/the-next-big-opportunities-of-big-data.jng
 tags:
 - Technology
 - Management
 ---
-**In the era of Big Data, great new opportunities are continually being created for virtually all business functions. Trough Big Data, companies can accumulate competitive benefits, which can be conclusive if they also learn to use them on an efficient scale and are able to routinize the extraction of value from data using appropriate techniques.**
+**In the era of Big Data, great new opportunities are continually being created for virtually all business functions. Through Big Data, companies can accumulate competitive benefits, which can be conclusive if they also learn to use them on an efficient scale and are able to routinize the extraction of value from data using appropriate techniques.**
 
 In this article we examine some of the main impacts and opportunities that Big Data will continue to provide to business organizations in the development of innovative and increasingly competitive strategies.
 
@@ -49,7 +49,9 @@ Ironically, even though most business organizations have more data than ever bef
 
 New data-centered technologies, such as AI or cognitive computing, promise to address this challenge. These technologies are specifically designed to integrate and analyze large data sets and extract meaning from different types of data, thus representing a big leap forward from classical computing, since they mimic some aspects of human thought when it comes to evaluating information but without the biases introduced by human cognition. 
 
-In summary, Big Data promises exciting new opportunities, including unlocking new insights that can accelerate the creation of new products and services, boost customer relationships, improve operational processes, and even embrace innovative business models. Furthermore, Big Data is the perfect companion to traditional “small data”. However, Big Data and all its potential will come to nothing if organizations are not capable of integrating it, analyzing it, and understanding it. And this is a highly complex process that goes beyond Big Data, as it transcends the mere capture and processing of information. Ultimately it requires organizations to equip themselves with specialized techniques and knowledge with which to analyze the results and extract value from them.
+In summary, Big Data promises exciting new opportunities, including unlocking new insights that can accelerate the creation of new products and services, boost customer relationships, improve operational processes, and even embrace innovative business models. Furthermore, Big Data is the perfect companion to traditional “small data”. 
+
+However, Big Data and all its potential will come to nothing if organizations are not capable of integrating it, analyzing it, and understanding it. And this is a highly complex process that goes beyond Big Data, as it transcends the mere capture and processing of information. Ultimately it requires organizations to equip themselves with specialized techniques and knowledge with which to analyze the results and extract value from them.
 
 
 <p style= "font-size:10px;">Photo by <a href="https://www.freepik.es/foto-gratis/naturaleza-muerta-que-ilustra-concepto-etica_26407570.htm#page=2&query=ethics&position=49&from_view=search&track=sph" target="_blank">Freepik</a></p>
