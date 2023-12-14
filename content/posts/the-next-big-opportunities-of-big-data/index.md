@@ -1,7 +1,7 @@
 ---
 title: The Next Big Opportunities of Big Data
 date: "2023-09-21"
-description: In the era of Big Data, great new opportunities are continually being created for virtually all business functions. Through Big Data, companies can accumulate competitive benefits, which can be conclusive if they also learn to use them on an efficient scale and are able to routinize the extraction of value from data using appropriate technique. However, Big Data and all its potential will come to nothing if companies do not equip themselves with specialized techniques and knowledge with which to analyze the results and extract value from them.
+description: In the era of Big Data, great new opportunities are continually being created for virtually all business functions. Through Big Data, companies can accumulate competitive benefits, which can be conclusive if they also learn to use them on an efficient scale and are able to routinize the extraction of value from data using appropriate technique. However, Big Data and all its potential will come to nothing if companies do not transform and equip themselves with the culture and resources necessary to face the challenge.
 imageAltAttribute: The Next Big Opportunities of Big Data
 image: images/the-next-big-opportunities-of-big-data.jng
 tags:
@@ -54,4 +54,4 @@ In summary, Big Data promises exciting new opportunities, including unlocking ne
 However, Big Data and all its potential will come to nothing if organizations are not capable of integrating it, analyzing it, and understanding it. And this is a highly complex process that goes beyond Big Data, as it transcends the mere capture and processing of information. Ultimately it requires organizations to equip themselves with specialized techniques and knowledge with which to analyze the results and extract value from them.
 
 
-<p style= "font-size:10px;">Photo by <a href="https://www.freepik.es/foto-gratis/naturaleza-muerta-que-ilustra-concepto-etica_26407570.htm#page=2&query=ethics&position=49&from_view=search&track=sph" target="_blank">Freepik</a></p>
+<p style= "font-size:10px;">Photo by <a href="https://www.freepik.es/foto-gratis/hombre-usando-tableta-trabajar-conectarse-otros_25066876.htm#query=big%20data&position=3&from_view=search&track=ais&uuid=fc9b2696-b182-4155-9891-c1c052bb7375" target="_blank">Freepik</a></p>
