@@ -1,6 +1,6 @@
 ---
 title: The Transformative Power of the Connected Autonomous Vehicle
-description: Connected and autonomous vehicles (CAVs) have the potential to disrupt industries and consumer behavior, transforming urban spaces, modes of transportation use, and transforming a significant portion of employment. The arrival of CAVs on the market will generate a new world of business and social opportunities that, however, are not free from challenges and threats.
+description: Connected and autonomous vehicles (CAVs) have the potential to disrupt industries and consumer behavior, transforming urban spaces, modes of transportation use, and a significant portion of mobility-related employment. The arrival of CAVs on the market will generate a new world of business and social opportunities that, however, are not free from challenges and threats.
 date: "2023-12-21"
 imageAltAttribute: Connected Autonomous Vehicle
 image: images/connected-autonomous-vehicle.jpg
