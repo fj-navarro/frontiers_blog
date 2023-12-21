@@ -8,7 +8,7 @@ tags:
 - Technology
 ---
 
-**Connected and autonomous vehicles (CAVs) have the potential to disrupt industries and consumer behavior, transforming urban spaces, modes of transportation use, and transforming a significant portion of employment. The arrival of CAVs on the market will generate a new world of business and social opportunities that, however, are not free from challenges and threats.**
+**Connected and autonomous vehicles (CAVs) have the potential to disrupt industries and consumer behavior, transforming urban spaces, modes of transportation use, and a significant portion mobility-related employment. The arrival of CAVs on the market will generate a new world of business and social opportunities that, however, are not free from challenges and threats.**
 
 CAVs are much more than "autonomous taxis" and "constructive policy dialogue", they raise concrete questions about how to design the cities in which we will live, where businesses will be located and how consumer experiences will be designed.
 
