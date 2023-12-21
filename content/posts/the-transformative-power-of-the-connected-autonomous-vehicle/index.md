@@ -7,7 +7,6 @@ image: images/connected-autonomous-vehicle.jpg
 tags:
 - Technology
 ---
-
 **Connected and autonomous vehicles (CAVs) have the potential to disrupt industries and consumer behavior, transforming urban spaces, modes of transportation use, and transforming a significant portion of employment. The arrival of CAVs on the market will generate a new world of business and social opportunities that, however, are not free from challenges and threats.**
 
 CAVs are much more than "autonomous taxis" and "constructive policy dialogue", they raise concrete questions about how to design the cities in which we will live, where businesses will be located and how consumer experiences will be designed.
@@ -18,7 +17,7 @@ At the epicenter of CAV innovation are urban environments, whose spatial morphol
 
 CAV navigation will gradually relegate the driver to a "hands-off", "feet-off" role (with or without the ability to quickly regain control of the vehicle) to reach a fully automated mode in its most advanced stage.
 
-<img src="index_files/cognitive-systems-boosting-2.png" alt="AI vs Cognitive Systems"/>
+<img src="index_files/connected-autonomous-vehicle-1.jpeg" alt="Connected Autonomous Vehicle"/>
 
 Fig. 2 Cognitive computing expected market growth (Source: Research and Markets citing Knowledge Sourcing Intelligence)
 
@@ -56,4 +55,4 @@ Achieving some or all of the benefits that CAVs promise will depend not only on 
 
 Many plans are underway around the world to continue expanding the use of CAVs, mainly as sustainable transport solutions that help overcome congestion and pollution in daily and daytime urban commutes. By totally or partially eliminating the driver, the cost of mobility would be drastically reduced, forcing industries to adapt their business models to a new reality in the way people move and interact.
 
-<p style= "font-size:10px;">Photo by storyset <a href="https://www.freepik.es/vector-gratis/ilustracion-concepto-coche-autonomo_19184615.htm" target="_blank">Freepik</a></p>
+<p style= "font-size:10px;">Photo by story at<a href="https://www.freepik.es/vector-gratis/ilustracion-concepto-coche-autonomo_19184615.htm" target="_blank">Freepik</a></p>
