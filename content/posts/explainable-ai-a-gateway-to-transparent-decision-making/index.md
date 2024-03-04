@@ -7,6 +7,7 @@ image: images/explainable-ai-gateway.jpg
 tags:
 - Technology
 - Management
+- AI
 ---
 
 **In the era of data-driven decision-making, businesses are increasingly turning to Artificial Intelligence (AI) to gain insights, streamline processes, and enhance competitiveness. However, as AI systems become more complex and pervasive, the need for transparency and accountability in their decision-making processes has become paramount.**
