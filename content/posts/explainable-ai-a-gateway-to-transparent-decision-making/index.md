@@ -9,7 +9,7 @@ tags:
 - Management
 ---
 
-*In the era of data-driven decision-making, businesses are increasingly turning to Artificial Intelligence (AI) to gain insights, streamline processes, and enhance competitiveness. However, as AI systems become more complex and pervasive, the need for transparency and accountability in their decision-making processes has become paramount.*
+**In the era of data-driven decision-making, businesses are increasingly turning to Artificial Intelligence (AI) to gain insights, streamline processes, and enhance competitiveness. However, as AI systems become more complex and pervasive, the need for transparency and accountability in their decision-making processes has become paramount.**
 
 This is where Explainable AI (XAI) emerges as a transformative force, offering a pathway to understand, interpret, and trust AI-driven decisions, and providing transformational leaders with the tools they need to navigate the complexities of modern business with confidence and integrity.
 
