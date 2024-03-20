@@ -1,9 +1,9 @@
 ---
-title: Multilingual AI, Leveraging Language to Drive Business Transformation
-date: "2024-03-07"
-description: In the bustling world of artificial intelligence (AI), large language models (LLMs) stand as the vanguard of innovation, promising to revolutionize communication. Yet, as these AI behemoths march forward, a growing concern arises regarding the linguistic divide they may create.
-imageAltAttribute: Multilingual AI
-image: images/multilingual-ai.jpg
+title: Explainable AI, A Gateway to Transparent Decision-Making 
+date: "2024-02-21"
+description: In the era of data-driven decision-making, businesses are increasingly turning to Artificial Intelligence (AI) to gain insights, streamline processes, and enhance competitiveness. However, as AI systems become more complex and pervasive, the need for transparency and accountability in their decision-making processes has become paramount. 
+imageAltAttribute: Explainable AI
+image: images/explainable-ai-gateway.jpg
 tags:
 - Technology
 - Management
