@@ -2,8 +2,8 @@
 title: Augmented Intelligence, Blending Human-Machine Capabilities
 date: "2024-03-14"
 description: As we stand at the frontier of technological advancements, augmented intelligence emerges not as a replacement for human ingenuity, but as a potent ally that enhances our capabilities. 
-imageAltAttribute: Augmented Reality
-image: images/augmented-reality.jpg
+imageAltAttribute: Augmented Intelligence
+image: images/augmented-intelligence.jpg
 tags:
 - Technology
 - Management
