@@ -68,4 +68,4 @@ Key takeaways include the imperative for transformational leaders to prioritize 
 Ultimately, augmented intelligence offers organizations the opportunity to unlock new sources of value, drive innovation, and achieve sustainable growth. Through proactive leadership and strategic alignment, transformational leaders can harness the full potential of augmented intelligence, shaping a brighter future for their organizations and stakeholders.
 
 
-<p style= "font-size:10px;">Photo by <a href="https://www.freepik.es/foto-gratis/tecnologia-fondo-toque-humano-nueva-version-moderna-creacion-adan_17851045.htm#fromView=search&page=1&position=2&uuid=5beba50a-89c4-421c-9994-61b00ea4483d" target="_blank">rawpixel.com</a></p>
+<p style= "font-size:10px;">Photo by <a href="https://www.freepik.es/foto-gratis/mujeres-alto-angulo-juntando-manos_33296485.htm" target="_blank">freepik</a></p>
