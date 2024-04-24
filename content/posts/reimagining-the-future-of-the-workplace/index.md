@@ -1,8 +1,8 @@
 ---
 title: Reimagining the Future of the Workplace
-date: "2024-03-20"
-description: As transformative changes continue to shape the current business landscape, effectively managing business transformation has become a critical focus for organizations. Central to this transformation effort is the ability of organizations to build strong inter-firm networks, allowing them to navigate the complexities of change and innovation.
-imageAltAttribute: Inter-Firm Networks
+date: "2024-03-27"
+description: Few topics have garnered as much attention and debate in the field of business transformation as the future of the workplace. As we navigate an era marked by rapid technological advancements, shifting cultural norms, and evolving employee expectations, the traditional concept of the workplace is undergoing a seismic shift. 
+imageAltAttribute: The Future of the Workplace
 image: images/future-of-the-workplace.jpg
 tags:
 - Management
