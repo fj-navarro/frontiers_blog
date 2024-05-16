@@ -1,5 +1,5 @@
 ---
-title: Anthropic AI, Symbiotically Enhancing Human Intelligence
+title: Anthropic AI - Symbiotically Enhancing Human Intelligence
 date: "2024-04-17"
 description: Imagine an AI system that not only understands data but comprehends it in a deeply human-like manner, reasoning, and learning from it as we do. This is the essence of Anthropic AI. It's not just about crunching numbers or executing tasks; it's about understanding context, making nuanced decisions, and even exhibiting creativity. 
 imageAltAttribute: Deciding on Transformation Use Cases
