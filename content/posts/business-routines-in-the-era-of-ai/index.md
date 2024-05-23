@@ -1,7 +1,7 @@
 ---
 title: Business Routines in the Era of AI
 date: "2024-04-24"
-description: "Business routines” are the backbone of organizational efficiency and innovation. They represent the repetitive patterns of a company's behavior, crucial for maintaining consistency and reliability in operations. However, the advent of AI has introduced a new paradigm, promising to revolutionize efficiency, innovation, and competitive advantage. This necessitates a reevaluation of how routines are designed, implemented, and operated.
+description: Business routines are the backbone of organizational efficiency and innovation. They represent the repetitive patterns of a company's behavior, crucial for maintaining consistency and reliability in operations. However, the advent of AI has introduced a new paradigm, promising to revolutionize efficiency, innovation, and competitive advantage. This necessitates a reevaluation of how routines are designed, implemented, and operated.
 imageAltAttribute: Deciding on Transformation Use Cases
 image: images/business-routines.jpg
 tags:
