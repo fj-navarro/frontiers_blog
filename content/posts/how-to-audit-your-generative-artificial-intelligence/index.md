@@ -73,4 +73,4 @@ Transformational leaders must engage in regular audits, employing various techni
 
 For transformational leaders, the key takeaways are clear: prioritize the auditing of GenAI, implement comprehensive audit strategies, and continuously monitor AI systems. This approach not only boosts the credibility and fairness of AI applications but also drives successful and sustainable business transformation.
 
-<p style= "font-size:10px;">Photo by <a href="https://www.freepik.es/vector-gratis/analisis-rendimiento-empresarial-graficos_3425213.htm" target="_blank">senivpetro</a></p>
+<p style= "font-size:10px;">Photo by <a href="https://www.freepik.es/vector-gratis/analisis-rendimiento-empresarial-graficos_3425213.htm" target="_blank">rawpixel</a></p>
