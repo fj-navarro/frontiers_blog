@@ -6,7 +6,7 @@ imageAltAttribute: Deciding on Transformation Use Cases
 image: images/anthropic-ai.jpg
 tags:
 - Management
-- Artificial Intelligence
+- AI
 ---
 
 **Imagine an AI system that not only understands data but comprehends it in a deeply human-like manner, reasoning, and learning from it as we do. This is the essence of Anthropic AI. It's not just about crunching numbers or executing tasks; it's about understanding context, making nuanced decisions, and even exhibiting creativity.**
