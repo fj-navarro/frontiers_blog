@@ -64,4 +64,4 @@ As transformational leaders navigate the evolving landscape of GenAI, it is cruc
 
 The future of GenAI in business is promising, but it requires a careful and informed approach. Transformational leaders must stay vigilant, continuously update their knowledge, and adopt best practices to ensure their AI initiatives are successful and ethical. Harnessing the full potential of GenAI while safeguarding your organizations against its potential dark side is essential for sustainable success.
 
-<p style= "font-size:10px;">Photo by <a href=" href="https://www.freepik.es/foto-gratis/concepto-nube-ai-cerebro_32471130.htm" target="_blank">freepik</a></p>
+<p style= "font-size:10px;">Photo by <a href="https://www.freepik.es/foto-gratis/concepto-nube-ai-cerebro_32471130.htm" target="_blank">freepik</a></p>
