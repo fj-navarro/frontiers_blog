@@ -124,7 +124,7 @@ AI's continued existence would depend on its goals and how it's programmed. If i
 
 **The Importance of Balance:** This highlights the importance of achieving a balanced model. AI can be a powerful tool to amplify human creativity, but unchecked, it could pose a risk. By working together, we can ensure AI continues to evolve and benefit humanity, while safeguarding the spark of human creativity that drives innovation and progress.
 
-## My (Short) Conclusions
+## My (Very Short) Conclusion
 
 -   The threat AI poses to human creativity is real and already noticeable in some basic tasks and niches of the population, particularly among those heavily involved in the exchange of information and knowledge. If the worst predictions come true, AI could lead humanity into a state of creative stagnation, hindering progress and disrupting the foundations of social interaction as we know them.
 
@@ -142,4 +142,4 @@ AI's continued existence would depend on its goals and how it's programmed. If i
 
 -   Finally, there will also be two residual extreme groups. One extreme will radically adopt AI, even seeking to blur the lines between human and machine within themselves. The other extreme will probably reject AI, remaining outside the significant social changes ahead. Their importance will be less than the two main groups, varying on cultural, educational, and social factors.
 
-<p style= "font-size:10px;">Photo by <a href="<a href="https://www.freepik.es/foto-gratis/hombres-silueta-abstracta-inspiran-creatividad-ia-generativa-fondo-grunge_41074671.htm"target="_blank">vecstock</a></p>
+<p style= "font-size:10px;">Photo by <a href= "https://www.freepik.es/foto-gratis/hombres-silueta-abstracta-inspiran-creatividad-ia-generativa-fondo-grunge_41074671.htm" target="_blank">vecstock</a></p>
