@@ -9,7 +9,7 @@ tags:
 - AI
 - Reflection Series
 ---
-*Artificial Intelligence (AI) has emerged as a game-changing force across all industries and society, with its impact on scientific discovery being particularly profound. From turbocharging data analysis to sparking novel hypotheses, AI's potential seems limitless. However, as we stand on the brink of a new era of knowledge generation, we should ask: Is AI truly advancing scientific discovery, or are we overlooking critical drawbacks?*
+**Artificial Intelligence (AI) has emerged as a game-changing force across all industries and society, with its impact on scientific discovery being particularly profound. From turbocharging data analysis to sparking novel hypotheses, AI's potential seems limitless. However, as we stand on the brink of a new era of knowledge generation, we should ask: Is AI truly advancing scientific discovery, or are we overlooking critical drawbacks?**
 
 In this week’s edition of 'Frontiers in Transformation,' we'll be taking a critical look at both the benefits and drawbacks of artificial intelligence in scientific discovery. Can AI really advance science, or does it threaten to complicate it even further? Tune in to find out!"
 
