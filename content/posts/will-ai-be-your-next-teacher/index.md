@@ -1,10 +1,7 @@
 ---
 title: Will AI Be Your Next Teacher?
 date: "2024-06-12"
-description: Episode 3 of Reflection Series "Challenges of AI on Human Knowledge". AI has emerged as a transformation driving force for scientific discovery, education, and teaching. As AI technologies continue to advance, they are reshaping the traditional landscape of teaching and learning. AI's capacity to
-process vast amounts of data, identify patterns, and deliver
-personalized experiences positions it as a powerful tool for educators
-and learners alike.
+description: Episode 3 of Reflection Series "Challenges of AI on Human Knowledge". AI has emerged as a transformation driving force for scientific discovery, education, and teaching. As AI technologies continue to advance, they are reshaping the traditional landscape of teaching and learning. AI's capacity toprocess vast amounts of data, identify patterns, and deliver personalized experiences positions it as a powerful tool for educators and learners alike.
 imageAltAttribute: AI as Your Teacher
 image: images/ai-teacher.jpg
 tags:
