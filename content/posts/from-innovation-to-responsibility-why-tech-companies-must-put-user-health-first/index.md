@@ -47,6 +47,11 @@ each new alert, notification, or ping creates a dopamine-driven feedback
 loop, making users crave these momentary spikes of engagement and
 approval.
 
+> This widespread reliance on technology-based devices has brought
+> remarkable convenience, information access, and connectivity benefits.
+> However, alongside these advantages, a concerning array of physical
+> and psychological issues has surfaced
+
 Digital technologies have integrated so deeply into our lives that they
 are shaping our sense of identity, social dynamics, and emotional
 well-being. Platforms like social media offer users the chance to curate
@@ -126,6 +131,10 @@ relationship where technology extends certain capacities---such as our
 ability to access information instantly---while diminishing others, like
 our patience, resilience, or face-to-face social skills.
 
+> Digital technologies have integrated so deeply into our lives that
+> they are shaping our sense of identity, social dynamics, and emotional
+> well-being
+
 Moreover, the fallacy that technology is neutral ignores the
 responsibility that companies bear for the consequences of their
 products. The economic model driving many technology companies is based
@@ -167,3 +176,5 @@ innovations. Technology companies must take responsibility for both the
 benefits and the challenges of their creations, ensuring that the
 digital future is not only innovative but also healthy, sustainable, and
 supportive of human well-being.
+
+<p style= "font-size:10px;">Photo by <a href="https://www.freepik.com/free-vector/mental-health-awareness-concept_7974025.htm" target="_blank">pikisuperstar</a></p>
