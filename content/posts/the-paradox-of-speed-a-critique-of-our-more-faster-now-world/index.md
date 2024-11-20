@@ -1,5 +1,5 @@
 ---
-title: The Paradox of Speed: A Critique of Our “More-Faster-Now” World
+title: The Paradox of Speed - A Critique of Our “More-Faster-Now” World
 date: "2024-10-30"
 description: We live in an era where speed shapes every aspect of our lives. From instant access to information to the rapid delivery of goods and services, society has become addicted to immediacy. This “more-faster-now” mindset is transforming the way businesses operate, pushing them to constantly rethink how to meet consumer demands with unmatched efficiency. However, the relentless pursuit of speed is reshaping our cognitive processes, often to our detriment.
 imageAltAttribute: The Paradox of Speed
