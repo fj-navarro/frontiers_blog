@@ -8,7 +8,7 @@ tags:
 - Management
 ---
 
-**Thirty years ago, the World Wide Web was a nascent innovation, connecting only a handful of systems globally. Today, it forms the backbone of nearly every aspect of our lives and digital-driven systems have become integral to modern society, transcending boundaries to fields as diverse as healthcare, education, finance, logistics, and manufacturing. **
+**Thirty years ago, the World Wide Web was a nascent innovation, connecting only a handful of systems globally. Today, it forms the backbone of nearly every aspect of our lives and digital-driven systems have become integral to modern society, transcending boundaries to fields as diverse as healthcare, education, finance, logistics, and manufacturing.**
 
 In 2024, global spending on digital transformation is projected to surpass $3.25 trillion and is expected to approach $4 trillion by 2027, representing over two-thirds of worldwide IT spending. These figures emphasize how critical digital solutions have become for operational efficiency and innovation across industries.
 
