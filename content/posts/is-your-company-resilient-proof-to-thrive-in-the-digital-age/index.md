@@ -1,5 +1,5 @@
 ---
-title: Is Your Business Resilient-Proof To Thrive In The Digital Age?
+title: Is Your Company Resilient-Proof To Thrive In The Digital Age?
 date: "2024-11-06"
 description: Thirty years ago, the World Wide Web was a nascent innovation, connecting only a handful of systems globally. Today, it forms the backbone of nearly every aspect of our lives and digital-driven systems have become integral to modern society. Any disruption to these critical systems can lead to severe consequences, highlighting the pressing need for robust and resilient digital systems design.
 imageAltAttribute: Resilience Engineering
